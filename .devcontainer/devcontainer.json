@@ -1,0 +1,10 @@
+{
+  "name": "PharmaFlow AI",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python", "ms-toolsai.jupyter"]
+    }
+  },
+  "postCreateCommand": "pip install --user -r requirements.txt"
+}
