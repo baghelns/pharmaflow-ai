@@ -1,900 +1,871 @@
 [
   {
-    "safety_report_id": "4500000",
-    "drug_name": "LOSARTAN",
-    "reaction": "Headache",
-    "serious": "1",
-    "patient_age": "53",
-    "country": "GB",
-    "event_date": "20250324"
-  },
-  {
-    "safety_report_id": "4500001",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Dyspnoea",
-    "serious": "1",
-    "patient_age": "72",
-    "country": "US",
-    "event_date": "20250207"
-  },
-  {
-    "safety_report_id": "4500002",
-    "drug_name": "METFORMIN",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "89",
-    "country": "DE",
-    "event_date": "20250708"
-  },
-  {
-    "safety_report_id": "4500003",
-    "drug_name": "WARFARIN",
-    "reaction": "Rash",
-    "serious": "1",
-    "patient_age": "18",
-    "country": "CA",
-    "event_date": "20250609"
-  },
-  {
-    "safety_report_id": "4500004",
-    "drug_name": "OMEPRAZOLE",
-    "reaction": "Oedema peripheral",
-    "serious": "1",
-    "patient_age": "31",
-    "country": "CA",
-    "event_date": "20250212"
-  },
-  {
-    "safety_report_id": "4500005",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "Urticaria",
-    "serious": "1",
-    "patient_age": "23",
-    "country": "DE",
-    "event_date": "20250213"
-  },
-  {
-    "safety_report_id": "4500006",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "64",
-    "country": "US",
-    "event_date": "20250122"
-  },
-  {
-    "safety_report_id": "4500007",
-    "drug_name": "METFORMIN",
-    "reaction": "Insomnia",
-    "serious": "1",
-    "patient_age": "28",
-    "country": "US",
-    "event_date": "20250709"
-  },
-  {
-    "safety_report_id": "4500008",
-    "drug_name": "WARFARIN",
-    "reaction": "Dyspnoea",
-    "serious": "1",
-    "patient_age": "38",
-    "country": "IN",
-    "event_date": "20250422"
-  },
-  {
-    "safety_report_id": "4500009",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Chest pain",
-    "serious": "1",
-    "patient_age": "39",
-    "country": "GB",
-    "event_date": "20250813"
-  },
-  {
-    "safety_report_id": "4500010",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Pruritus",
-    "serious": "1",
-    "patient_age": "59",
-    "country": "GB",
-    "event_date": "20250126"
-  },
-  {
-    "safety_report_id": "4500011",
-    "drug_name": "ATORVASTATIN",
-    "reaction": "Nasopharyngitis",
-    "serious": "1",
-    "patient_age": "26",
-    "country": "DE",
-    "event_date": "20251211"
-  },
-  {
-    "safety_report_id": "4500012",
-    "drug_name": "METFORMIN",
-    "reaction": "Dyspnoea",
+    "safety_report_id": "10003314",
+    "drug_name": "LETAIRIS",
+    "reaction": "Back pain",
     "serious": "2",
-    "patient_age": "68",
-    "country": "GB",
-    "event_date": "20250505"
-  },
-  {
-    "safety_report_id": "4500013",
-    "drug_name": "METFORMIN",
-    "reaction": "Chest pain",
-    "serious": "1",
-    "patient_age": "72",
-    "country": "IN",
-    "event_date": "20250405"
-  },
-  {
-    "safety_report_id": "4500014",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "24",
-    "country": "GB",
-    "event_date": "20251106"
-  },
-  {
-    "safety_report_id": "4500015",
-    "drug_name": "SERTRALINE",
-    "reaction": "Dyspnoea",
-    "serious": "2",
-    "patient_age": "26",
-    "country": "CA",
-    "event_date": "20251015"
-  },
-  {
-    "safety_report_id": "4500016",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Dizziness",
-    "serious": "1",
-    "patient_age": "32",
-    "country": "IN",
-    "event_date": "20250210"
-  },
-  {
-    "safety_report_id": "4500017",
-    "drug_name": "AMLODIPINE",
-    "reaction": "Rhabdomyolysis",
-    "serious": "2",
-    "patient_age": "18",
-    "country": "DE",
-    "event_date": "20250317"
-  },
-  {
-    "safety_report_id": "4500018",
-    "drug_name": "PREDNISONE",
-    "reaction": "Headache",
-    "serious": "1",
     "patient_age": "82",
-    "country": "GB",
-    "event_date": "20250625"
-  },
-  {
-    "safety_report_id": "4500019",
-    "drug_name": "OMEPRAZOLE",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "59",
     "country": "US",
-    "event_date": "20250212"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500020",
-    "drug_name": "PREDNISONE",
-    "reaction": "Diarrhoea",
-    "serious": "1",
-    "patient_age": "48",
-    "country": "GB",
-    "event_date": "20251003"
-  },
-  {
-    "safety_report_id": "4500021",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Chest pain",
+    "safety_report_id": "10003316",
+    "drug_name": "LETAIRIS",
+    "reaction": "Oedema",
     "serious": "2",
-    "patient_age": "26",
-    "country": "GB",
-    "event_date": "20251116"
+    "patient_age": "73",
+    "country": "US",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500022",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Rhabdomyolysis",
-    "serious": "1",
-    "patient_age": "85",
-    "country": "GB",
-    "event_date": "20250925"
-  },
-  {
-    "safety_report_id": "4500023",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Chest pain",
-    "serious": "1",
-    "patient_age": "57",
-    "country": "IN",
-    "event_date": "20250817"
-  },
-  {
-    "safety_report_id": "4500024",
-    "drug_name": "WARFARIN",
-    "reaction": "Headache",
+    "safety_report_id": "10003317",
+    "drug_name": "BENLYSTA",
+    "reaction": "Angioedema",
     "serious": "1",
     "patient_age": "46",
-    "country": "IN",
-    "event_date": "20250119"
-  },
-  {
-    "safety_report_id": "4500025",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Oedema peripheral",
-    "serious": "1",
-    "patient_age": "18",
     "country": "US",
-    "event_date": "20250403"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500026",
-    "drug_name": "PREDNISONE",
-    "reaction": "Nausea",
+    "safety_report_id": "10003319",
+    "drug_name": "BENLYSTA",
+    "reaction": "Cholecystectomy",
     "serious": "1",
-    "patient_age": "27",
-    "country": "IN",
-    "event_date": "20251116"
-  },
-  {
-    "safety_report_id": "4500027",
-    "drug_name": "METFORMIN",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "78",
-    "country": "CA",
-    "event_date": "20250707"
-  },
-  {
-    "safety_report_id": "4500028",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Headache",
-    "serious": "2",
-    "patient_age": "63",
-    "country": "CA",
-    "event_date": "20250828"
-  },
-  {
-    "safety_report_id": "4500029",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "25",
-    "country": "IN",
-    "event_date": "20250208"
-  },
-  {
-    "safety_report_id": "4500030",
-    "drug_name": "METFORMIN",
-    "reaction": "Oedema peripheral",
-    "serious": "2",
-    "patient_age": "35",
-    "country": "GB",
-    "event_date": "20250515"
-  },
-  {
-    "safety_report_id": "4500031",
-    "drug_name": "METFORMIN",
-    "reaction": "Diarrhoea",
-    "serious": "1",
-    "patient_age": "74",
+    "patient_age": "46",
     "country": "US",
-    "event_date": "20251118"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500032",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "48",
-    "country": "CA",
-    "event_date": "20250816"
-  },
-  {
-    "safety_report_id": "4500033",
-    "drug_name": "METFORMIN",
-    "reaction": "Diarrhoea",
+    "safety_report_id": "10003322",
+    "drug_name": "LETAIRIS",
+    "reaction": "Tremor",
     "serious": "2",
-    "patient_age": "25",
-    "country": "CA",
-    "event_date": "20250113"
+    "patient_age": "61",
+    "country": "US",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500034",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Pruritus",
+    "safety_report_id": "10003323",
+    "drug_name": "PRADAXA",
+    "reaction": "Fall",
     "serious": "2",
-    "patient_age": "54",
-    "country": "DE",
-    "event_date": "20251123"
-  },
-  {
-    "safety_report_id": "4500035",
-    "drug_name": "WARFARIN",
-    "reaction": "Rhabdomyolysis",
-    "serious": "1",
-    "patient_age": "55",
-    "country": "US",
-    "event_date": "20251024"
-  },
-  {
-    "safety_report_id": "4500036",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "25",
-    "country": "DE",
-    "event_date": "20250817"
-  },
-  {
-    "safety_report_id": "4500037",
-    "drug_name": "PREDNISONE",
-    "reaction": "Diarrhoea",
-    "serious": "1",
-    "patient_age": "25",
-    "country": "GB",
-    "event_date": "20250220"
-  },
-  {
-    "safety_report_id": "4500038",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Dyspnoea",
-    "serious": "1",
-    "patient_age": "69",
-    "country": "DE",
-    "event_date": "20250419"
-  },
-  {
-    "safety_report_id": "4500039",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "71",
-    "country": "IN",
-    "event_date": "20250422"
-  },
-  {
-    "safety_report_id": "4500040",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Urticaria",
-    "serious": "1",
-    "patient_age": "51",
-    "country": "GB",
-    "event_date": "20251121"
-  },
-  {
-    "safety_report_id": "4500041",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "27",
-    "country": "CA",
-    "event_date": "20251019"
-  },
-  {
-    "safety_report_id": "4500042",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Headache",
-    "patient_age": "82",
-    "country": "GB",
-    "event_date": "20250603"
-  },
-  {
-    "safety_report_id": "4500043",
-    "drug_name": "PREDNISONE",
-    "reaction": "Oedema peripheral",
-    "serious": "1",
-    "patient_age": "54",
-    "country": "CA",
-    "event_date": "20250923"
-  },
-  {
-    "safety_report_id": "4500044",
-    "drug_name": "LISINOPRIL",
-    "reaction": "",
-    "serious": "1",
-    "patient_age": "88",
-    "country": "US",
-    "event_date": "20250309"
-  },
-  {
-    "safety_report_id": "4500045",
-    "drug_name": "SIMVASTATIN",
-    "reaction": "Pruritus",
-    "serious": "1",
-    "patient_age": null,
-    "country": "IN",
-    "event_date": "20250520"
-  },
-  {
-    "safety_report_id": "4500046",
-    "drug_name": "METFORMIN",
-    "reaction": "Chest pain",
-    "serious": "1",
-    "patient_age": "44",
-    "country": "DE",
-    "event_date": "20250809"
-  },
-  {
-    "safety_report_id": "4500047",
-    "drug_name": "PREDNISONE",
-    "reaction": "Pruritus",
-    "serious": "1",
-    "patient_age": "29",
-    "country": "IN",
-    "event_date": "20250101"
-  },
-  {
-    "safety_report_id": "4500048",
-    "drug_name": "ATORVASTATIN",
-    "reaction": "Insomnia",
-    "serious": "1",
-    "patient_age": "51",
-    "country": "CA",
-    "event_date": "20250923"
-  },
-  {
-    "safety_report_id": "4500049",
-    "drug_name": "AMLODIPINE",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "32",
-    "country": "GB",
-    "event_date": "20250902"
-  },
-  {
-    "safety_report_id": "4500050",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "Urticaria",
-    "serious": "1",
     "patient_age": "73",
     "country": "US",
-    "event_date": "20250512"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500051",
-    "drug_name": "PREDNISONE",
-    "reaction": "Pruritus",
+    "safety_report_id": "10003331",
+    "drug_name": "MIRENA",
+    "reaction": "Chemical poisoning",
     "serious": "1",
-    "patient_age": "63",
+    "patient_age": "38",
     "country": "GB",
-    "event_date": "20251104"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500052",
-    "drug_name": "ATORVASTATIN",
-    "reaction": "Insomnia",
+    "safety_report_id": "10003332",
+    "drug_name": "PRADAXA",
+    "reaction": "Proctalgia",
     "serious": "2",
-    "patient_age": "37",
-    "country": "GB",
-    "event_date": "20250314"
-  },
-  {
-    "safety_report_id": "4500053",
-    "drug_name": "SALSALATE",
-    "reaction": "Rhabdomyolysis",
-    "serious": "1",
-    "patient_age": "70",
-    "country": "IN",
-    "event_date": "20250326"
-  },
-  {
-    "safety_report_id": "4500054",
-    "drug_name": "GABAPENTIN",
-    "reaction": "",
-    "serious": "2",
-    "patient_age": "22",
-    "country": "GB",
-    "event_date": "20250427"
-  },
-  {
-    "safety_report_id": "4500055",
-    "drug_name": "PREDNISONE",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "57",
-    "country": "GB",
-    "event_date": "20250122"
-  },
-  {
-    "safety_report_id": "4500056",
-    "drug_name": "METFORMIN",
-    "reaction": "Nasopharyngitis",
-    "serious": "1",
-    "patient_age": "53",
-    "country": "IN",
-    "event_date": "20250621"
-  },
-  {
-    "safety_report_id": "4500057",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Nasopharyngitis",
-    "serious": "1",
-    "patient_age": "21",
-    "country": "IN",
-    "event_date": "20250319"
-  },
-  {
-    "safety_report_id": "4500058",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "73",
-    "country": "IN",
-    "event_date": "20250720"
-  },
-  {
-    "safety_report_id": "4500059",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Headache",
-    "serious": "2",
-    "patient_age": "42",
+    "patient_age": "80",
     "country": "US",
-    "event_date": "20251214"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500060",
-    "drug_name": "SALSALATE",
-    "reaction": "Hypoglycaemia",
+    "safety_report_id": "10003351",
+    "drug_name": "MIRTAZAPINE (UNKNOWN)",
+    "reaction": "Aggression",
     "serious": "1",
-    "patient_age": "64",
+    "patient_age": "46",
+    "country": "GB",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003357",
+    "drug_name": "TACROLIMUS (WATSON LABORATORIES)",
+    "reaction": "Posterior reversible encephalopathy syndrome",
+    "serious": "1",
+    "patient_age": "10",
     "country": "US",
-    "event_date": "20251111"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500061",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Urticaria",
+    "safety_report_id": "10003359",
+    "drug_name": "DOXAZOSIN (UNKNOWN)",
+    "reaction": "Erection increased",
     "serious": "1",
-    "patient_age": "56",
-    "country": "CA",
-    "event_date": "20250613"
+    "patient_age": "41",
+    "country": "GB",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500062",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Dizziness",
+    "safety_report_id": "10003361",
+    "drug_name": "CITALOPRAM (UNKNOWN)",
+    "reaction": "Hyponatraemia",
     "serious": "1",
-    "patient_age": "42",
-    "country": "CA",
-    "event_date": "20251124"
+    "patient_age": "65",
+    "country": "GB",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500063",
-    "drug_name": "PREDNISONE",
-    "reaction": "Rhabdomyolysis",
-    "serious": "1",
-    "patient_age": "69",
-    "country": "IN",
-    "event_date": "20250507"
+    "safety_report_id": "10003376",
+    "drug_name": "CASODEX",
+    "reaction": "Diarrhoea",
+    "serious": "2",
+    "patient_age": "62",
+    "country": "US",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500064",
-    "drug_name": "AMLODIPINE",
-    "reaction": "Insomnia",
+    "safety_report_id": "10003392",
+    "drug_name": "VISMODEGIB",
+    "reaction": "Subdural haematoma",
     "serious": "1",
     "patient_age": "77",
     "country": "CA",
-    "event_date": "20251107"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500065",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Fatigue",
+    "safety_report_id": "10003450",
+    "drug_name": "CAPTOPRIL SANDOZ",
+    "reaction": "Blood pressure fluctuation",
     "serious": "1",
-    "patient_age": "28",
-    "country": "DE",
-    "event_date": "20251121"
+    "patient_age": "68",
+    "country": "BR",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500066",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Urticaria",
+    "safety_report_id": "10003487",
+    "drug_name": "ZOLPIDEM SANDOZ",
+    "reaction": "Disorientation",
     "serious": "1",
-    "patient_age": "48",
+    "patient_age": "80",
+    "country": "FR",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003491",
+    "drug_name": "METRONIDAZOLE (UNKNOWN)",
+    "reaction": "Pharyngeal oedema",
+    "serious": "1",
+    "patient_age": "55",
     "country": "GB",
-    "event_date": "20250405"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500067",
-    "drug_name": "SALSALATE",
-    "reaction": "",
-    "serious": "1",
-    "patient_age": "78",
-    "country": "CA",
-    "event_date": "20250721"
-  },
-  {
-    "safety_report_id": "4500068",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Oedema peripheral",
+    "safety_report_id": "10003495",
+    "drug_name": "LYRICA",
+    "reaction": "Drug ineffective",
     "serious": "2",
-    "patient_age": "81",
-    "country": "GB",
-    "event_date": "20250321"
-  },
-  {
-    "safety_report_id": "4500069",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "72",
-    "country": "GB",
-    "event_date": "20251217"
-  },
-  {
-    "safety_report_id": "4500070",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "33",
-    "country": "GB",
-    "event_date": "20250822"
-  },
-  {
-    "safety_report_id": "4500071",
-    "drug_name": "ADALIMUMAB",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "74",
-    "country": "DE",
-    "event_date": "20250806"
-  },
-  {
-    "safety_report_id": "4500072",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Diarrhoea",
-    "serious": "2",
-    "patient_age": "75",
-    "country": "GB",
-    "event_date": "20251109"
-  },
-  {
-    "safety_report_id": "4500073",
-    "drug_name": "SERTRALINE",
-    "reaction": "Insomnia",
-    "serious": "2",
-    "patient_age": "48",
-    "country": "CA",
-    "event_date": "20250223"
-  },
-  {
-    "safety_report_id": "4500074",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Oedema peripheral",
-    "serious": "1",
-    "patient_age": "60",
-    "country": "DE",
-    "event_date": "20250205"
-  },
-  {
-    "safety_report_id": "4500075",
-    "drug_name": "OMEPRAZOLE",
-    "reaction": "Oedema peripheral",
-    "serious": "2",
-    "patient_age": "37",
+    "patient_age": "61",
     "country": "US",
-    "event_date": "20250714"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500076",
-    "drug_name": "ATORVASTATIN",
-    "reaction": "Hypoglycaemia",
+    "safety_report_id": "10003496",
+    "drug_name": "NORVASC",
+    "reaction": "Sleep disorder",
     "serious": "2",
-    "patient_age": "71",
-    "country": "GB",
-    "event_date": "20250713"
-  },
-  {
-    "safety_report_id": "4500077",
-    "drug_name": "PREDNISONE",
-    "reaction": "Insomnia",
-    "serious": "1",
-    "patient_age": "66",
+    "patient_age": "80",
     "country": "US",
-    "event_date": "20250610"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500078",
-    "drug_name": "SERTRALINE",
-    "reaction": "Nasopharyngitis",
+    "safety_report_id": "10003497",
+    "drug_name": "VIAGRA",
+    "reaction": "Headache",
     "serious": "2",
-    "patient_age": "86",
-    "country": "CA",
-    "event_date": "20250409"
-  },
-  {
-    "safety_report_id": "4500079",
-    "drug_name": "AMLODIPINE",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "67",
-    "country": "CA",
-    "event_date": "20251206"
-  },
-  {
-    "safety_report_id": "4500080",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "86",
-    "country": "CA",
-    "event_date": "20251019"
-  },
-  {
-    "safety_report_id": "4500081",
-    "drug_name": "LOSARTAN",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "72",
-    "country": "CA",
-    "event_date": "20250302"
-  },
-  {
-    "safety_report_id": "4500082",
-    "drug_name": "LISINOPRIL",
-    "reaction": "Nasopharyngitis",
-    "serious": "1",
-    "patient_age": "45",
-    "country": "IN",
-    "event_date": "20250625"
-  },
-  {
-    "safety_report_id": "4500083",
-    "drug_name": "PREDNISONE",
-    "reaction": "Nasopharyngitis",
-    "serious": "1",
-    "patient_age": "71",
+    "patient_age": "56",
     "country": "US",
-    "event_date": "20250801"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500084",
-    "drug_name": "GABAPENTIN",
-    "reaction": "Hypoglycaemia",
-    "serious": "1",
-    "patient_age": "62",
-    "country": "US",
-    "event_date": "20251102"
-  },
-  {
-    "safety_report_id": "4500085",
-    "drug_name": "SERTRALINE",
-    "reaction": "Nausea",
-    "serious": "1",
-    "patient_age": "43",
-    "country": "DE",
-    "event_date": "20250308"
-  },
-  {
-    "safety_report_id": "4500086",
-    "drug_name": "OMEPRAZOLE",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "45",
-    "country": "IN",
-    "event_date": "20250606"
-  },
-  {
-    "safety_report_id": "4500087",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Rash",
-    "serious": "1",
-    "patient_age": "38",
-    "country": "US",
-    "event_date": "20251001"
-  },
-  {
-    "safety_report_id": "4500088",
-    "drug_name": "PREDNISONE",
-    "reaction": "Dizziness",
+    "safety_report_id": "10003508",
+    "drug_name": "JAKAFI",
+    "reaction": "Abdominal pain",
     "serious": "2",
     "patient_age": "68",
     "country": "US",
-    "event_date": "20251023"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500089",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "",
+    "safety_report_id": "10003512",
+    "drug_name": "FORTEO",
+    "reaction": "Femur fracture",
     "serious": "1",
-    "patient_age": "31",
-    "country": "DE",
-    "event_date": "20250226"
+    "patient_age": "75",
+    "country": "JP",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500090",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Insomnia",
-    "serious": "1",
-    "patient_age": "62",
-    "country": "IN",
-    "event_date": "20250217"
-  },
-  {
-    "safety_report_id": "4500091",
-    "drug_name": "LOSARTAN",
-    "reaction": "Urticaria",
-    "serious": "1",
-    "patient_age": "71",
+    "safety_report_id": "10003515",
+    "drug_name": "MIRENA",
+    "reaction": "Vaginal haemorrhage",
+    "serious": "2",
+    "patient_age": "40",
     "country": "US",
-    "event_date": "20250712"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500092",
-    "drug_name": "LOSARTAN",
-    "reaction": "Pruritus",
-    "serious": "2",
-    "patient_age": "37",
-    "country": "GB",
-    "event_date": "20251217"
-  },
-  {
-    "safety_report_id": "4500093",
-    "drug_name": "LOSARTAN",
-    "reaction": "Dizziness",
-    "serious": "2",
-    "patient_age": "77",
-    "country": "DE",
-    "event_date": "20250511"
-  },
-  {
-    "safety_report_id": "4500094",
-    "drug_name": "FUROSEMIDE",
-    "reaction": "Oedema peripheral",
+    "safety_report_id": "10003519",
+    "drug_name": "SODIUM VALPROATE (UNKNOWN)",
+    "reaction": "Hepatocellular injury",
     "serious": "1",
-    "patient_age": "53",
-    "country": "GB",
-    "event_date": "20250819"
+    "patient_age": "83",
+    "country": "IR",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500095",
-    "drug_name": "CERTOLIZUMAB PEGOL",
-    "reaction": "Dyspnoea",
-    "serious": "2",
-    "patient_age": null,
-    "country": "CA",
-    "event_date": "20250606"
-  },
-  {
-    "safety_report_id": "4500096",
-    "drug_name": "WARFARIN",
-    "reaction": "Oedema peripheral",
+    "safety_report_id": "10003520",
+    "drug_name": "MIRENA",
+    "reaction": "Adnexa uteri pain",
     "serious": "1",
-    "patient_age": "51",
-    "country": "IN",
-    "event_date": "20251023"
-  },
-  {
-    "safety_report_id": "4500097",
-    "drug_name": "PREDNISONE",
-    "reaction": "Dizziness",
-    "serious": "1",
-    "patient_age": "84",
+    "patient_age": "25",
     "country": "US",
-    "event_date": "20250424"
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500098",
-    "drug_name": "AMLODIPINE",
-    "reaction": "Fatigue",
-    "serious": "1",
-    "patient_age": "78",
-    "country": "CA",
-    "event_date": "20250103"
+    "safety_report_id": "10003527",
+    "drug_name": "JAKAFI",
+    "reaction": "Hepatic enzyme increased",
+    "serious": "2",
+    "patient_age": "45",
+    "country": "US",
+    "event_date": "20140312"
   },
   {
-    "safety_report_id": "4500099",
-    "drug_name": "LISINOPRIL",
+    "safety_report_id": "10003530",
+    "drug_name": "FANAPT",
     "reaction": "Oedema peripheral",
+    "serious": "1",
+    "patient_age": "24",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003532",
+    "drug_name": "HUMIRA",
+    "reaction": "Chest pain",
+    "serious": "1",
+    "patient_age": "59",
+    "country": "GB",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003537",
+    "drug_name": "JAKAFI",
+    "reaction": "Pollakiuria",
     "serious": "2",
     "patient_age": "49",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003542",
+    "drug_name": "ACLASTA",
+    "reaction": "Nerve compression",
+    "serious": "1",
+    "patient_age": "73",
+    "country": "TH",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003545",
+    "drug_name": "LUPRON DEPOT",
+    "reaction": "Death",
+    "serious": "1",
+    "patient_age": "84",
+    "country": "CA",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003554",
+    "drug_name": "GILENYA",
+    "reaction": "Monocyte count decreased",
+    "serious": "1",
+    "patient_age": "38",
+    "country": "GB",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003556",
+    "drug_name": "GILENYA",
+    "reaction": "Rheumatoid arthritis",
+    "serious": "1",
+    "patient_age": "60",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003568",
+    "drug_name": "CLARITIN CHEWABLE TABLETS",
+    "reaction": "Overdose",
+    "serious": "2",
+    "patient_age": "4",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003569",
+    "drug_name": "DEPAKOTE",
+    "reaction": "Dysgeusia",
+    "serious": "2",
+    "patient_age": "63",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003570",
+    "drug_name": "SANDOSTATIN LAR",
+    "reaction": "Death",
+    "serious": "1",
+    "patient_age": "48",
+    "country": "CA",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003574",
+    "drug_name": "ABATACEPT SUBQ INJECTION 125MG/ML",
+    "reaction": "Sepsis",
+    "serious": "1",
+    "patient_age": "62",
     "country": "DE",
-    "event_date": "20250616"
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003577",
+    "drug_name": "SABRIL (FOR ORAL SOLUTION)",
+    "reaction": "Tonsillectomy",
+    "serious": "1",
+    "patient_age": "3",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003578",
+    "drug_name": "GILENYA",
+    "reaction": "Completed suicide",
+    "serious": "1",
+    "patient_age": "38",
+    "country": "IE",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003585",
+    "drug_name": "CLARITIN CHEWABLE TABLETS",
+    "reaction": "Overdose",
+    "serious": "2",
+    "patient_age": "9",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003586",
+    "drug_name": "NEULASTA",
+    "reaction": "Surgery",
+    "serious": "1",
+    "patient_age": "58",
+    "country": "NL",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003589",
+    "drug_name": "REBIF",
+    "reaction": "Loss of consciousness",
+    "serious": "1",
+    "patient_age": "63",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003590",
+    "drug_name": "CLARITIN CHEWABLE TABLETS",
+    "reaction": "Overdose",
+    "serious": "2",
+    "patient_age": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003594",
+    "drug_name": "AUBAGIO",
+    "reaction": "Muscle spasms",
+    "serious": "1",
+    "patient_age": "48",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003596",
+    "drug_name": "SPIRIVA",
+    "reaction": "Musculoskeletal chest pain",
+    "serious": "2",
+    "patient_age": "92",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003623",
+    "drug_name": "DEPAKOTE",
+    "reaction": "Liver function test abnormal",
+    "serious": "2",
+    "patient_age": "57",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003635",
+    "drug_name": "CLOZARIL",
+    "reaction": "Neutrophil count increased",
+    "serious": "1",
+    "patient_age": "46",
+    "country": "GB",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003641",
+    "drug_name": "DEPAKOTE",
+    "reaction": "Medication residue present",
+    "serious": "2",
+    "patient_age": "41",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003647",
+    "drug_name": "ACZ885",
+    "reaction": "Erysipelas",
+    "serious": "1",
+    "patient_age": "74",
+    "country": "SE",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003653",
+    "drug_name": "GLIVEC",
+    "reaction": "Death",
+    "serious": "1",
+    "patient_age": "38",
+    "country": "IN",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003667",
+    "drug_name": "AFINITOR",
+    "reaction": "Death",
+    "serious": "1",
+    "patient_age": "59",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003672",
+    "drug_name": "AZILECT",
+    "reaction": "Hypertension",
+    "serious": "1",
+    "patient_age": "86",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003675",
+    "drug_name": "NEXPLANON",
+    "reaction": "Implant site pruritus",
+    "serious": "2",
+    "patient_age": "22",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003682",
+    "drug_name": "KALYDECO",
+    "reaction": "Asthenia",
+    "serious": "1",
+    "patient_age": "50",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003683",
+    "drug_name": "PROVENTIL",
+    "reaction": "Chronic obstructive pulmonary disease",
+    "serious": "1",
+    "patient_age": "60",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003690",
+    "drug_name": "AUBAGIO",
+    "reaction": "Rhinalgia",
+    "serious": "1",
+    "patient_age": "50",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003692",
+    "drug_name": "NEXPLANON",
+    "reaction": "Implant site irritation",
+    "serious": "2",
+    "patient_age": "18",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003694",
+    "drug_name": "SANDOSTATIN LAR DEPOT",
+    "reaction": "Blood sodium decreased",
+    "serious": "1",
+    "patient_age": "42",
+    "country": "TR",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003715",
+    "drug_name": "ONFI",
+    "reaction": "Limb discomfort",
+    "serious": "2",
+    "patient_age": "7",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003716",
+    "drug_name": "CORICIDIN HBP COLD AND FLU",
+    "reaction": "Drug ineffective for unapproved indication",
+    "serious": "2",
+    "patient_age": "55",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003722",
+    "drug_name": "NEULASTA",
+    "reaction": "Pneumonia",
+    "serious": "1",
+    "patient_age": "23",
+    "country": "NL",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003725",
+    "drug_name": "COMETRIQ",
+    "reaction": "Death",
+    "serious": "1",
+    "patient_age": "54",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003727",
+    "drug_name": "NEULASTA",
+    "reaction": "Investigation",
+    "serious": "1",
+    "patient_age": "49",
+    "country": "NL",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003733",
+    "drug_name": "IMPLANON",
+    "reaction": "Abortion induced",
+    "serious": "1",
+    "patient_age": "35",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003765",
+    "drug_name": "ENBREL",
+    "reaction": "Visual impairment",
+    "serious": "1",
+    "patient_age": "69",
+    "country": "AR",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003768",
+    "drug_name": "DOXAZOSIN",
+    "reaction": "Loss of proprioception",
+    "serious": "1",
+    "patient_age": "71",
+    "country": "GB",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003769",
+    "drug_name": "PARAGARD 380A",
+    "reaction": "Embedded device",
+    "serious": "1",
+    "patient_age": "26",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003771",
+    "drug_name": "HUMIRA",
+    "reaction": "Hyponatraemia",
+    "serious": "1",
+    "patient_age": "53",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003777",
+    "drug_name": "NEXPLANON",
+    "reaction": "Device difficult to use",
+    "serious": "2",
+    "patient_age": "35",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003302",
+    "drug_name": "LYRICA",
+    "reaction": "Drug ineffective",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003315",
+    "drug_name": "RANOLAZINE",
+    "reaction": "Death",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003334",
+    "drug_name": "SPIRIVA",
+    "reaction": "Dry mouth",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003342",
+    "drug_name": "TASIGNA",
+    "reaction": "Overdose",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003355",
+    "drug_name": "CASODEX",
+    "reaction": "Heart rate decreased",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003406",
+    "drug_name": "MICROPAKINE",
+    "reaction": "Cognitive disorder",
+    "serious": "1",
+    "country": "FR",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003492",
+    "drug_name": "ZETIA",
+    "reaction": "Hypersensitivity",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003493",
+    "drug_name": "LYRICA",
+    "reaction": "Drug ineffective for unapproved indication",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003498",
+    "drug_name": "VIAGRA",
+    "reaction": "Erection increased",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003499",
+    "drug_name": "CHANTIX",
+    "reaction": "Insomnia",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003500",
+    "drug_name": "PROCARDIA",
+    "reaction": "Drug hypersensitivity",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003502",
+    "drug_name": "ESTRING",
+    "reaction": "Weight increased",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003503",
+    "drug_name": "PREMARIN",
+    "reaction": "Reaction to drug excipients",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003505",
+    "drug_name": "DIOVAN",
+    "reaction": "Spinal column stenosis",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003507",
+    "drug_name": "HUMULIN 30% REGULAR, 70% NPH",
+    "reaction": "Blindness",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003540",
+    "drug_name": "HUMIRA",
+    "reaction": "Oesophageal perforation",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003575",
+    "drug_name": "OXYTROL FOR WOMEN",
+    "reaction": "Drug ineffective",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003584",
+    "drug_name": "ACLASTA/ZOLEDRONATE",
+    "reaction": "Bone density decreased",
+    "serious": "2",
+    "country": "CA",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003592",
+    "drug_name": "ONFI",
+    "reaction": "Adverse event",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003599",
+    "drug_name": "GLIVEC",
+    "reaction": "Death",
+    "serious": "1",
+    "country": "MY",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003612",
+    "drug_name": "GLEEVEC",
+    "reaction": "Death",
+    "serious": "1",
+    "country": "CA",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003625",
+    "drug_name": "DIOVAN",
+    "reaction": "Neoplasm malignant",
+    "serious": "1",
+    "country": "AR",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003628",
+    "drug_name": "LIPITOR",
+    "reaction": "Type 2 diabetes mellitus",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003639",
+    "drug_name": "GLIVEC",
+    "reaction": "Lower limb fracture",
+    "serious": "1",
+    "country": "IN",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003640",
+    "drug_name": "JANUVIA",
+    "reaction": "Diarrhoea",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003645",
+    "drug_name": "CUBICIN",
+    "reaction": "Death",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003661",
+    "drug_name": "AMPYRA",
+    "reaction": "Depression",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003666",
+    "drug_name": "NUVIGIL",
+    "reaction": "Reflux laryngitis",
+    "serious": "2",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003669",
+    "drug_name": "DEXTROAMPHETAMINE SULFATE",
+    "reaction": "Coeliac disease",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003678",
+    "drug_name": "JANUMET",
+    "reaction": "Neoplasm malignant",
+    "serious": "1",
+    "country": "PH",
+    "event_date": "20140312"
+  },
+  {
+    "safety_report_id": "10003697",
+    "drug_name": "SEVOFLURANE, USP",
+    "reaction": "Hyperthermia malignant",
+    "serious": "1",
+    "country": "US",
+    "event_date": "20140312"
   }
 ]

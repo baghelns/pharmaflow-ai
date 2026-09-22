@@ -7,7 +7,6 @@
     }
   },
   "postCreateCommand": "pip install --user -r requirements.txt jupyterlab",
-  "postStartCommand": "date >> /tmp/poststart-test.log 2>&1 && setsid nohup /home/vscode/.local/bin/jupyter lab --no-browser --port=8888 --NotebookApp.token='' --NotebookApp.password='' > /tmp/jupyterlab.log 2>&1 < /dev/null &",
   "portsAttributes": {
     "8888": {
       "label": "JupyterLab",

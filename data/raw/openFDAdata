@@ -1,0 +1,28 @@
+"""
+One-time pull of raw OpenFDA drug-adverse-event records.
+Run from your Codespace terminal: python3 fetch_openfda.py
+Standard library only -- no pip install needed. No API key needed.
+"""
+import json
+import time
+import urllib.request
+
+BASE_URL = "https://api.fda.gov/drug/event.json"
+PAGE_SIZE = 100
+NUM_PAGES = 5   # 500 raw records to curate down from
+OUTPUT_FILE = "openfda_raw_pull.json"
+
+all_results = []
+for page in range(NUM_PAGES):
+    skip = page * PAGE_SIZE
+    url = f"{BASE_URL}?limit={PAGE_SIZE}&skip={skip}"
+    print(f"Fetching records {skip}-{skip + PAGE_SIZE}...")
+    with urllib.request.urlopen(url, timeout=30) as resp:
+        data = json.loads(resp.read().decode())
+    all_results.extend(data.get("results", []))
+    time.sleep(0.5)
+
+with open(OUTPUT_FILE, "w") as f:
+    json.dump(all_results, f, indent=2)
+
+print(f"\nSaved {len(all_results)} raw records to {OUTPUT_FILE}")
