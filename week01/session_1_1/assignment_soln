@@ -1,0 +1,44 @@
+import json, os
+
+def find_repo_root(marker_folder="data", start=None):
+    # Search upward until we find the folder that contains data/ --
+    # that only exists at the repo root, so this works no matter
+    # which folder happened to be open or which file this runs from.
+    current = os.path.abspath(start or os.getcwd())
+    while True:
+        if os.path.isdir(os.path.join(current, marker_folder)):
+            return current
+        parent = os.path.dirname(current)
+        if parent == current:
+            raise FileNotFoundError("No data folder found above here.")
+        current = parent
+
+REPO_ROOT = find_repo_root()
+DATA_FILE = os.path.join(REPO_ROOT, "data", "raw", "adverse_events_100.json")
+with open(DATA_FILE) as f:
+    records = json.load(f)
+
+def country_summary(records):
+    summary = {}
+    for r in records:
+        country = r.get("country") or "UNKNOWN"
+        if country not in summary:
+            summary[country] = {
+                "total_events": 0, "serious_events": 0, "reports_with_age": 0
+            }
+        summary[country]["total_events"] += 1
+        if r.get("serious") == "1":
+            summary[country]["serious_events"] += 1
+        if r.get("patient_age") is not None:
+            summary[country]["reports_with_age"] += 1
+    return summary
+
+summary = country_summary(records)
+top3 = sorted(
+    summary.items(), key=lambda x: x[1]["serious_events"], reverse=True
+)[:3]
+for country, data in top3:
+    print(country, data)
+
+
+    
