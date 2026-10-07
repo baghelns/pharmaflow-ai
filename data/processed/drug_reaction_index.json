@@ -1,0 +1,238 @@
+{
+  "LETAIRIS": [
+    "Back pain",
+    "Oedema",
+    "Tremor"
+  ],
+  "BENLYSTA": [
+    "Angioedema",
+    "Cholecystectomy"
+  ],
+  "PRADAXA": [
+    "Fall",
+    "Proctalgia"
+  ],
+  "MIRENA": [
+    "Chemical poisoning",
+    "Vaginal haemorrhage",
+    "Adnexa uteri pain"
+  ],
+  "MIRTAZAPINE (UNKNOWN)": [
+    "Aggression"
+  ],
+  "TACROLIMUS (WATSON LABORATORIES)": [
+    "Posterior reversible encephalopathy syndrome"
+  ],
+  "DOXAZOSIN (UNKNOWN)": [
+    "Erection increased"
+  ],
+  "CITALOPRAM (UNKNOWN)": [
+    "Hyponatraemia"
+  ],
+  "CASODEX": [
+    "Diarrhoea",
+    "Heart rate decreased"
+  ],
+  "VISMODEGIB": [
+    "Subdural haematoma"
+  ],
+  "CAPTOPRIL SANDOZ": [
+    "Blood pressure fluctuation"
+  ],
+  "ZOLPIDEM SANDOZ": [
+    "Disorientation"
+  ],
+  "METRONIDAZOLE (UNKNOWN)": [
+    "Pharyngeal oedema"
+  ],
+  "LYRICA": [
+    "Drug ineffective",
+    "Drug ineffective for unapproved indication"
+  ],
+  "NORVASC": [
+    "Sleep disorder"
+  ],
+  "VIAGRA": [
+    "Headache",
+    "Erection increased"
+  ],
+  "JAKAFI": [
+    "Abdominal pain",
+    "Hepatic enzyme increased",
+    "Pollakiuria"
+  ],
+  "FORTEO": [
+    "Femur fracture"
+  ],
+  "SODIUM VALPROATE (UNKNOWN)": [
+    "Hepatocellular injury"
+  ],
+  "FANAPT": [
+    "Oedema peripheral"
+  ],
+  "HUMIRA": [
+    "Chest pain",
+    "Hyponatraemia",
+    "Oesophageal perforation"
+  ],
+  "ACLASTA": [
+    "Nerve compression"
+  ],
+  "LUPRON DEPOT": [
+    "Death"
+  ],
+  "GILENYA": [
+    "Monocyte count decreased",
+    "Rheumatoid arthritis",
+    "Completed suicide"
+  ],
+  "CLARITIN CHEWABLE TABLETS": [
+    "Overdose"
+  ],
+  "DEPAKOTE": [
+    "Dysgeusia",
+    "Liver function test abnormal",
+    "Medication residue present"
+  ],
+  "SANDOSTATIN LAR": [
+    "Death"
+  ],
+  "ABATACEPT SUBQ INJECTION 125MG/ML": [
+    "Sepsis"
+  ],
+  "SABRIL (FOR ORAL SOLUTION)": [
+    "Tonsillectomy"
+  ],
+  "NEULASTA": [
+    "Surgery",
+    "Pneumonia",
+    "Investigation"
+  ],
+  "REBIF": [
+    "Loss of consciousness"
+  ],
+  "AUBAGIO": [
+    "Muscle spasms",
+    "Rhinalgia"
+  ],
+  "SPIRIVA": [
+    "Musculoskeletal chest pain",
+    "Dry mouth"
+  ],
+  "CLOZARIL": [
+    "Neutrophil count increased"
+  ],
+  "ACZ885": [
+    "Erysipelas"
+  ],
+  "GLIVEC": [
+    "Death",
+    "Lower limb fracture"
+  ],
+  "AFINITOR": [
+    "Death"
+  ],
+  "AZILECT": [
+    "Hypertension"
+  ],
+  "NEXPLANON": [
+    "Implant site pruritus",
+    "Implant site irritation",
+    "Device difficult to use"
+  ],
+  "KALYDECO": [
+    "Asthenia"
+  ],
+  "PROVENTIL": [
+    "Chronic obstructive pulmonary disease"
+  ],
+  "SANDOSTATIN LAR DEPOT": [
+    "Blood sodium decreased"
+  ],
+  "ONFI": [
+    "Limb discomfort",
+    "Adverse event"
+  ],
+  "CORICIDIN HBP COLD AND FLU": [
+    "Drug ineffective for unapproved indication"
+  ],
+  "COMETRIQ": [
+    "Death"
+  ],
+  "IMPLANON": [
+    "Abortion induced"
+  ],
+  "ENBREL": [
+    "Visual impairment"
+  ],
+  "DOXAZOSIN": [
+    "Loss of proprioception"
+  ],
+  "PARAGARD 380A": [
+    "Embedded device"
+  ],
+  "RANOLAZINE": [
+    "Death"
+  ],
+  "TASIGNA": [
+    "Overdose"
+  ],
+  "MICROPAKINE": [
+    "Cognitive disorder"
+  ],
+  "ZETIA": [
+    "Hypersensitivity"
+  ],
+  "CHANTIX": [
+    "Insomnia"
+  ],
+  "PROCARDIA": [
+    "Drug hypersensitivity"
+  ],
+  "ESTRING": [
+    "Weight increased"
+  ],
+  "PREMARIN": [
+    "Reaction to drug excipients"
+  ],
+  "DIOVAN": [
+    "Spinal column stenosis",
+    "Neoplasm malignant"
+  ],
+  "HUMULIN 30% REGULAR, 70% NPH": [
+    "Blindness"
+  ],
+  "OXYTROL FOR WOMEN": [
+    "Drug ineffective"
+  ],
+  "ACLASTA/ZOLEDRONATE": [
+    "Bone density decreased"
+  ],
+  "GLEEVEC": [
+    "Death"
+  ],
+  "LIPITOR": [
+    "Type 2 diabetes mellitus"
+  ],
+  "JANUVIA": [
+    "Diarrhoea"
+  ],
+  "CUBICIN": [
+    "Death"
+  ],
+  "AMPYRA": [
+    "Depression"
+  ],
+  "NUVIGIL": [
+    "Reflux laryngitis"
+  ],
+  "DEXTROAMPHETAMINE SULFATE": [
+    "Coeliac disease"
+  ],
+  "JANUMET": [
+    "Neoplasm malignant"
+  ],
+  "SEVOFLURANE, USP": [
+    "Hyperthermia malignant"
+  ]
+}

@@ -1,0 +1,55 @@
+country_code,country_name,business_region
+US,United States,North America
+GB,United Kingdom,EMEA
+CA,Canada,North America
+NL,Netherlands,EMEA
+FR,France,EMEA
+IN,India,APAC
+AR,Argentina,LATAM
+BR,Brazil,LATAM
+JP,Japan,APAC
+IR,Iran,EMEA
+TH,Thailand,APAC
+DE,Germany,EMEA
+IE,Ireland,EMEA
+SE,Sweden,EMEA
+TR,Turkey,EMEA
+MY,Malaysia,APAC
+PH,Philippines,APAC
+AU,Australia,APAC
+MX,Mexico,LATAM
+IT,Italy,EMEA
+EC,Ecuador,LATAM
+BE,Belgium,EMEA
+UA,Ukraine,EMEA
+IL,Israel,EMEA
+CN,China,APAC
+PL,Poland,EMEA
+RO,Romania,EMEA
+AT,Austria,EMEA
+LB,Lebanon,EMEA
+CL,Chile,LATAM
+VE,Venezuela,LATAM
+HK,Hong Kong,APAC
+PE,Peru,LATAM
+GR,Greece,EMEA
+FI,Finland,EMEA
+CZ,Czech Republic,EMEA
+ES,Spain,EMEA
+BD,Bangladesh,APAC
+ZA,South Africa,EMEA
+HU,Hungary,EMEA
+CO,Colombia,LATAM
+VN,Vietnam,APAC
+NO,Norway,EMEA
+CH,Switzerland,EMEA
+HR,Croatia,EMEA
+RU,Russia,EMEA
+ID,Indonesia,APAC
+EG,Egypt,EMEA
+NZ,New Zealand,APAC
+KR,South Korea,APAC
+RS,Serbia,EMEA
+SK,Slovakia,EMEA
+LY,Libya,EMEA
+GW,Guinea-Bissau,EMEA

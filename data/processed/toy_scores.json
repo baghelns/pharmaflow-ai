@@ -1,0 +1,32 @@
+[
+  {
+    "student": "Asha",
+    "subject": "Math",
+    "score": 88
+  },
+  {
+    "student": "Asha",
+    "subject": "Science",
+    "score": 73
+  },
+  {
+    "student": "Ravi",
+    "subject": "Math",
+    "score": 65
+  },
+  {
+    "student": "Ravi",
+    "subject": "Science",
+    "score": 91
+  },
+  {
+    "student": "Meera",
+    "subject": "Math",
+    "score": 95
+  },
+  {
+    "student": "Meera",
+    "subject": "Science",
+    "score": 95
+  }
+]
