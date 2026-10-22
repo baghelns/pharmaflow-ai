@@ -1,0 +1,522 @@
+drug_name,drug_class,n_classes
+ABRAXANE,Microtubule Inhibitor,1
+ABREVA,Non-Standardized Chemical Allergen,1
+ACALABRUTINIB,Kinase Inhibitor,1
+ACCUTANE,Retinoid,1
+ACETAMINOPHEN,Nonsteroidal Anti-inflammatory Drug,1
+ACETAZOLAMIDE,Carbonic Anhydrase Inhibitor,1
+ACTEMRA,Interleukin-6 Receptor Antagonist,1
+ACTEMRA ACTPEN,Interleukin-6 Receptor Antagonist,1
+ACYCLOVIR,Herpes Simplex Virus Nucleoside Analog DNA Polymerase Inhibitor,3
+ADALIMUMAB,Tumor Necrosis Factor Blocker,1
+ADAPALENE,Retinoid,1
+ADBRY,Interleukin-13 Antagonist,1
+ADCIRCA,Phosphodiesterase 5 Inhibitor,1
+ADEMPAS,Soluble Guanylate Cyclase Stimulator,1
+ADMELOG,Insulin Analog,1
+ADVIL,Nonsteroidal Anti-inflammatory Drug,1
+AIRSUPRA,Corticosteroid,1
+ALEMTUZUMAB,CD52-directed Cytolytic Antibody,1
+ALLI,Intestinal Lipase Inhibitor,1
+ALLOPURINOL,Xanthine Oxidase Inhibitor,1
+ALPRAZOLAM,Benzodiazepine,1
+ALUNBRIG,Kinase Inhibitor,1
+ALYFTREK,Cystic Fibrosis Transmembrane Conductance Regulator Potentiator,1
+ALYMSYS,Vascular Endothelial Growth Factor Inhibitor,1
+AMBRISENTAN,Endothelin Receptor Antagonist,1
+AMITIZA,Chloride Channel Activator,1
+AMJEVITA,Tumor Necrosis Factor Blocker,1
+AMLODIPINE,Dihydropyridine Calcium Channel Blocker,2
+AMPHOTERICIN B,Lipid-based Polyene Antifungal,2
+ANASTROZOLE,Aromatase Inhibitor,1
+ANGELIQ,Progestin,2
+APIXABAN,Factor Xa Inhibitor,1
+ARANESP,Erythropoiesis-stimulating Agent,1
+ARIKAYCE,Aminoglycoside Antibacterial,1
+ASCLERA,Sclerosing Agent,1
+ASPARLAS,Asparagine-specific Enzyme,1
+ASPIRIN,Nonsteroidal Anti-inflammatory Drug,2
+ATENOLOL,beta-Adrenergic Blocker,1
+ATOGEPANT,Calcitonin Gene-related Peptide Receptor Antagonist,1
+ATORVASTATIN CALCIUM,HMG-CoA Reductase Inhibitor,1
+AUBAGIO,Pyrimidine Synthesis Inhibitor,1
+AVACOPAN,Complement 5a Receptor Antagonist,1
+AVASTIN,Vascular Endothelial Growth Factor Inhibitor,1
+AVEENO ECZEMA THERAPY NIGHTTIME ITCH RELIEF BALM,Non-Standardized Food Allergenic Extract,2
+AVONEX,Interferon beta,1
+AZOPT,Carbonic Anhydrase Inhibitor,1
+BACLOFEN,gamma-Aminobutyric Acid-ergic Agonist,1
+BASAGLAR,Insulin Analog,1
+BELIMUMAB,B Lymphocyte Stimulator-specific Inhibitor,1
+BELSOMRA,Orexin Receptor Antagonist,1
+BELZUTIFAN,Hypoxia-inducible Factor Inhibitor,1
+BEMPEDOIC ACID,Adenosine Triphosphate-Citrate Lyase Inhibitor,1
+BENLYSTA,B Lymphocyte Stimulator-specific Inhibitor,1
+BENRALIZUMAB,Interleukin-5 Receptor alpha-directed Cytolytic Antibody,1
+BEVACIZUMAB,Vascular Endothelial Growth Factor Inhibitor,1
+BEYFORTUS,Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody,1
+BORTEZOMIB,Proteasome Inhibitor,1
+BOTOX,Acetylcholine Release Inhibitor,2
+BOTOX COSMETIC,Acetylcholine Release Inhibitor,2
+BRENTUXIMAB VEDOTIN,CD30-directed Immunoconjugate,1
+BREXPIPRAZOLE,Atypical Antipsychotic,1
+BREZTRI,beta2-Adrenergic Agonist,2
+BRIGATINIB,Kinase Inhibitor,1
+BRILINTA,P2Y12 Platelet Inhibitor,1
+BRIXADI,Partial Opioid Agonist,1
+BUDESONIDE,Corticosteroid,1
+BUPRENORPHINE,Partial Opioid Agonist,1
+CALASPARGASE PEGOL,Asparagine-specific Enzyme,1
+CALQUENCE,Kinase Inhibitor,1
+CAMZYOS,Cardiac Myosin Inhibitor,1
+CAPECITABINE,Nucleoside Metabolic Inhibitor,1
+CAPLYTA,Atypical Antipsychotic,1
+CARBAMAZEPINE,Mood Stabilizer,1
+CARBOPLATIN,Platinum-based Drug,1
+CARFILZOMIB,Proteasome Inhibitor,1
+CAVERJECT,Prostaglandin Analog,2
+CERDELGA,Glucosylceramide Synthase Inhibitor,1
+CEREZYME,Hydrolytic Lysosomal Glucocerebroside-specific Enzyme,1
+CERTOLIZUMAB PEGOL,Tumor Necrosis Factor Blocker,1
+CETIRIZINE,Histamine-1 Receptor Antagonist,1
+CETUXIMAB,Epidermal Growth Factor Receptor Antagonist,1
+CHILDRENS MOTRIN,Nonsteroidal Anti-inflammatory Drug,1
+CHLORTHALIDONE,Thiazide-like Diuretic,1
+CIBINQO,Janus Kinase Inhibitor,1
+CIMERLI,Vascular Endothelial Growth Factor Inhibitor,1
+CIMZIA,Tumor Necrosis Factor Blocker,1
+CIPROFLOXACIN,Fluoroquinolone Antibacterial,1
+CITALOPRAM,Serotonin Reuptake Inhibitor,1
+CLADRIBINE,Purine Antimetabolite,1
+CLARAVIS,Retinoid,1
+CLARITHROMYCIN,Macrolide Antimicrobial,1
+CLONIDINE,Central alpha-2 Adrenergic Agonist,1
+CLOPIDOGREL,P2Y12 Platelet Inhibitor,1
+CLOZAPINE,Atypical Antipsychotic,1
+CLOZARIL,Atypical Antipsychotic,1
+COBENFY,Cholinergic Muscarinic Agonist,1
+COLCHICINE,Alkaloid,1
+COLUMVI,Bispecific CD20-directed CD3 T Cell Engager,1
+COSENTYX,Interleukin-17A Antagonist,1
+CREXONT,Aromatic Amino Acid,1
+CRIZOTINIB,Kinase Inhibitor,1
+CYCLOSPORINE,Calcineurin Inhibitor Immunosuppressant,1
+CYKLOKAPRON,Antifibrinolytic Agent,1
+DANICOPAN,Complement Factor D Inhibitor,1
+DAPAGLIFLOZIN,Sodium-Glucose Cotransporter 2 Inhibitor,1
+DAPRODUSTAT,Hypoxia-inducible Factor Prolyl Hydroxylase Inhibitor,1
+DAPTOMYCIN,Lipopeptide Antibacterial,1
+DARBEPOETIN ALFA,Erythropoiesis-stimulating Agent,1
+DARZALEX FASPRO,CD38-directed Cytolytic Antibody,2
+DENOSUMAB,RANK Ligand Inhibitor,1
+DESCOVY,Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,1
+DESLORATADINE,Histamine-1 Receptor Antagonist,1
+DEXAMETHASONE,Corticosteroid,1
+DEXILANT,Proton Pump Inhibitor,1
+DEXLANSOPRAZOLE,Proton Pump Inhibitor,1
+DIAZEPAM,Benzodiazepine,1
+DICLOFENAC,Nonsteroidal Anti-inflammatory Drug,1
+DIFLUCAN,Azole Antifungal,1
+DIGOXIN,Cardiac Glycoside,1
+DOCETAXEL,Microtubule Inhibitor,1
+DORAVIRINE,Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,1
+DOVATO,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor,2
+DOXYCYCLINE,Tetracycline-class Drug,1
+DUPILUMAB,Interleukin-4 Receptor alpha Antagonist,1
+DUPIXENT,Interleukin-4 Receptor alpha Antagonist,1
+DURVALUMAB,Programmed Death Ligand-1 Blocker,1
+DUVYZAT,Histone Deacetylase Inhibitor,1
+ECULIZUMAB,Complement Inhibitor,1
+EFGARTIGIMOD ALFA,Neonatal Fc Receptor Blocker,1
+EKTERLY,Plasma Kallikrein Inhibitor,1
+ELUXADOLINE,mu-Opioid Receptor Agonist,1
+EMPAGLIFLOZIN,Sodium-Glucose Cotransporter 2 Inhibitor,1
+ENBREL,Tumor Necrosis Factor Blocker,1
+ENDARI,Amino Acid,1
+ENJAYMO,Classical Complement Pathway Inhibitor,1
+ENTECAVIR,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor,1
+ENTRESTO,Angiotensin 2 Receptor Blocker,1
+ENTYVIO,Integrin Receptor Antagonist,1
+EOHILIA,Corticosteroid,1
+EPCLUSA,Hepatitis C Virus NS5A Inhibitor,2
+EPIPEN,alpha-Adrenergic Agonist,3
+EPKINLY,Bispecific CD20-directed CD3 T Cell Engager,1
+EPOPROSTENOL,Prostacycline Vasodilator,1
+ERBITUX,Epidermal Growth Factor Receptor Antagonist,1
+ERIVEDGE,Hedgehog Pathway Inhibitor,1
+ERLOTINIB,Kinase Inhibitor,1
+ERYTHROMYCIN,Macrolide,2
+ESBRIET,Pyridone,1
+ESOMEPRAZOLE,Proton Pump Inhibitor,1
+ESTRADIOL,Estrogen,1
+ESTRADIOL TRANSDERMAL SYSTEM,Estrogen,1
+ETANERCEPT,Tumor Necrosis Factor Blocker,1
+ETODOLAC,Nonsteroidal Anti-inflammatory Drug,1
+ETOMIDATE,General Anesthetic,1
+ETONOGESTREL,Progestin,1
+ETOPOSIDE,Topoisomerase Inhibitor,1
+EVOLOCUMAB,PCSK9 Inhibitor,1
+EXCEDRIN EXTRA STRENGTH,Nonsteroidal Anti-inflammatory Drug,4
+EXCEDRIN MIGRAINE,Nonsteroidal Anti-inflammatory Drug,4
+EXEMESTANE,Aromatase Inhibitor,1
+EXFORGE HCT,Thiazide Diuretic,2
+EXJADE,Iron Chelator,1
+EYLEA,Vascular Endothelial Growth Factor Inhibitor,1
+EYLEA HD,Vascular Endothelial Growth Factor Inhibitor,1
+EZETIMIBE,Dietary Cholesterol Absorption Inhibitor,1
+FABRAZYME,Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme,1
+FAMOTIDINE,Histamine-2 Receptor Antagonist,1
+FASENRA,Interleukin-5 Receptor alpha-directed Cytolytic Antibody,1
+FENTANYL,Opioid Agonist,1
+FEZOLINETANT,Neurokinin 3 Receptor Antagonist,1
+FILGRASTIM,Leukocyte Growth Factor,1
+FILSPARI,Endothelin Receptor Antagonist,2
+FINASTERIDE,5-alpha Reductase Inhibitor,1
+FINGOLIMOD,Sphingosine 1-phosphate Receptor Modulator,1
+FLUCONAZOLE,Azole Antifungal,1
+FML,Corticosteroid,1
+FORTEO,Parathyroid Hormone Analog,1
+FUROSEMIDE,Loop Diuretic,1
+FYCOMPA,Noncompetitive AMPA Glutamate Receptor Antagonist,1
+FYLNETRA,Leukocyte Growth Factor,1
+GEMTESA,beta3-Adrenergic Agonist,1
+GENOSYL,Vasodilator,1
+GLIPIZIDE,Sulfonylurea,1
+GUANFACINE HYDROCHLORIDE,Central alpha-2 Adrenergic Agonist,1
+GUSELKUMAB,Interleukin-23 Antagonist,1
+HALOG,Corticosteroid,1
+HALOPERIDOL,Typical Antipsychotic,1
+HERCEPTIN,HER2/neu Receptor Antagonist,1
+HUMALOG,Insulin Analog,1
+HUMALOG MIX75/25,Insulin Analog,1
+HUMAN IMMUNOGLOBULIN G,Human Immunoglobulin G,1
+HUMULIN 70/30,Insulin,1
+HYDROCHLOROTHIAZIDE,Thiazide Diuretic,1
+HYDROCORTISONE,Corticosteroid,1
+HYRIMOZ,Tumor Necrosis Factor Blocker,1
+IBRANCE,Kinase Inhibitor,1
+IBUPROFEN,Nonsteroidal Anti-inflammatory Drug,1
+IDURSULFASE,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme,1
+ILUMYA,Interleukin-23 Antagonist,1
+IMBRUVICA,Kinase Inhibitor,1
+IMFINZI,Programmed Death Ligand-1 Blocker,1
+INFLECTRA,Tumor Necrosis Factor Blocker,1
+INFLIXIMAB,Tumor Necrosis Factor Blocker,1
+INFLIXIMAB-DYYB,Tumor Necrosis Factor Blocker,1
+INLYTA,Kinase Inhibitor,1
+INPEFA,Sodium-Glucose Cotransporter 2 Inhibitor,1
+INQOVI,Nucleoside Metabolic Inhibitor,1
+INSULIN GLARGINE,Insulin Analog,1
+INVEGA,Atypical Antipsychotic,1
+IOPROMIDE,Radiographic Contrast Agent,1
+IQIRVO,Peroxisome Proliferator-activated Receptor Agonist,1
+ISATUXIMAB,CD38-directed Cytolytic Antibody,1
+ISOTRETINOIN,Retinoid,1
+ITRACONAZOLE,Azole Antifungal,1
+JAKAFI,Kinase Inhibitor,2
+JARDIANCE,Sodium-Glucose Cotransporter 2 Inhibitor,1
+JOURNAVX,Sodium Channel Blocker,1
+JUBBONTI,RANK Ligand Inhibitor,1
+KANJINTI,HER2/neu Receptor Antagonist,1
+KESIMPTA,CD20-directed Cytolytic Antibody,1
+KETOCONAZOLE,Azole Antifungal,1
+KEVZARA,Interleukin-6 Receptor Antagonist,1
+KEYTRUDA,Programmed Death Receptor-1 Blocking Antibody,1
+KINERET,Interleukin-1 Receptor Antagonist,1
+KLONOPIN,Benzodiazepine,1
+KORLYM,Progestin Antagonist,1
+KOSELUGO,Kinase Inhibitor,1
+KRYSTEXXA,Uric Acid-specific Enzyme,1
+KYLEENA,Progestin,2
+KYMRIAH,CD19-directed Chimeric Antigen Receptor,2
+KYPROLIS,Proteasome Inhibitor,1
+LABETALOL HYDROCHLORIDE,beta-Adrenergic Blocker,1
+LAMICTAL,Anti-epileptic Agent,2
+LAMOTRIGINE,Anti-epileptic Agent,2
+LANTUS,Insulin Analog,1
+LANTUS SOLOSTAR,Insulin Analog,1
+LATANOPROST,Prostaglandin Analog,1
+LATISSE,Prostaglandin Analog,1
+LECANEMAB,Amyloid Beta-directed Antibody,1
+LEFLUNOMIDE,Antirheumatic Agent,1
+LEMBOREXANT,Orexin Receptor Antagonist,1
+LENALIDOMIDE,Thalidomide Analog,1
+LENVIMA,Kinase Inhibitor,1
+LEQEMBI,Amyloid Beta-directed Antibody,1
+LETROZOLE,Aromatase Inhibitor,1
+LEUKINE,Leukocyte Growth Factor,1
+LEVOFLOXACIN,Fluoroquinolone Antibacterial,1
+LIDOCAINE,Amide Local Anesthetic,4
+LIDOCAINE PATCH,Amide Local Anesthetic,2
+LILETTA,Progestin,2
+LINACLOTIDE,Guanylate Cyclase-C Agonist,1
+LINAGLIPTIN,Dipeptidyl Peptidase 4 Inhibitor,1
+LINEZOLID,Oxazolidinone Antibacterial,1
+LINZESS,Guanylate Cyclase-C Agonist,1
+LIRAGLUTIDE,GLP-1 Receptor Agonist,1
+LONSURF,Nucleoside Analog Antiviral,2
+LORAZEPAM,Benzodiazepine,1
+LORBRENA,Kinase Inhibitor,1
+LORLATINIB,Kinase Inhibitor,1
+LUCENTIS,Vascular Endothelial Growth Factor Inhibitor,1
+LUMIGAN,Prostaglandin Analog,1
+LUMIZYME,Hydrolytic Lysosomal Glycogen-specific Enzyme,1
+LUPKYNIS,Calcineurin Inhibitor Immunosuppressant,1
+LYNPARZA,Poly(ADP-Ribose) Polymerase Inhibitor,1
+MARIBAVIR,Cytomegalovirus pUL97 Kinase Inhibitor,1
+MAVENCLAD,Purine Antimetabolite,1
+MAVYRET,Hepatitis C Virus NS5A Inhibitor,2
+MAYZENT,Sphingosine 1-phosphate Receptor Modulator,1
+MELOXICAM,Nonsteroidal Anti-inflammatory Drug,1
+MEPOLIZUMAB,Interleukin-5 Antagonist,1
+MEROPENEM,Penem Antibacterial,1
+MESALAMINE,Aminosalicylate,1
+METHOTREXATE,Folate Analog Metabolic Inhibitor,1
+METHYLPHENIDATE,Central Nervous System Stimulant,1
+METHYLPHENIDATE HYDROCHLORIDE,Central Nervous System Stimulant,1
+MIDAZOLAM,Benzodiazepine,1
+MIEBO,Semifluorinated Alkane,1
+MIRALAX,Osmotic Laxative,1
+MIRENA,Progestin,2
+MITAPIVAT,Pyruvate Kinase Activator,1
+MONTELUKAST SODIUM,Leukotriene Receptor Antagonist,1
+MORPHINE,Opioid Agonist,1
+MOUNJARO,Glucose-dependent Insulinotropic Polypeptide Receptor Agonist,2
+MUCINEX,Expectorant,1
+MUCINEX DM,Expectorant,1
+MUCINEX DM MAXIMUM STRENGTH,Expectorant,1
+MULTAQ,Antiarrhythmic,1
+MUPIROCIN,RNA Synthetase Inhibitor Antibacterial,1
+MVASI,Vascular Endothelial Growth Factor Inhibitor,1
+MYCOPHENOLIC ACID,Antimetabolite Immunosuppressant,1
+MYFEMBREE,Gonadotropin Releasing Hormone Receptor Antagonist,1
+NAPROXEN,Nonsteroidal Anti-inflammatory Drug,1
+NATALIZUMAB,Integrin Receptor Antagonist,1
+NEMLUVIO,Interleukin-31 Receptor alpha Antagonist,1
+NEOMYCIN AND POLYMYXIN B SULFATES AND DEXAMETHASONE,Corticosteroid,1
+NEULASTA,Leukocyte Growth Factor,1
+NEUPOGEN,Leukocyte Growth Factor,1
+NEVIRAPINE,Human Immunodeficiency Virus 1 Non-Nucleoside Analog Reverse Transcriptase Inhibitor,1
+NEXPLANON,Progestin,1
+NEXVIAZYME,Hydrolytic Lysosomal Glycogen-specific Enzyme,1
+NICODERM CQ,Cholinergic Nicotinic Agonist,1
+NICORETTE,Cholinergic Nicotinic Agonist,1
+NICOTINE,Cholinergic Nicotinic Agonist,1
+NITRIC OXIDE,Vasodilator,1
+NITROFURANTOIN,Nitrofuran Antibacterial,1
+NIVESTYM,Leukocyte Growth Factor,1
+NIVOLUMAB,Programmed Death Receptor-1 Blocking Antibody,1
+NOVOLIN R,Insulin,1
+NOVOLOG,Insulin Analog,1
+NPLATE,Thrombopoietin Receptor Agonist,1
+NUCALA,Interleukin-5 Antagonist,1
+NUZYRA,Tetracycline-class Antibacterial,1
+NYSTATIN,Polyene Antifungal,1
+OBINUTUZUMAB,CD20-directed Cytolytic Antibody,1
+OCRELIZUMAB,CD20-directed Cytolytic Antibody,1
+OCREVUS,CD20-directed Cytolytic Antibody,1
+OCTREOTIDE,Somatostatin Analog,1
+ODEFSEY,Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,1
+OHTUVAYRE,Phosphodiesterase 3 Inhibitor,2
+OLANZAPINE,Atypical Antipsychotic,1
+OLAPARIB,Poly(ADP-Ribose) Polymerase Inhibitor,1
+OLUMIANT,Janus Kinase Inhibitor,1
+OMALIZUMAB,Anti-IgE,1
+OMEPRAZOLE,Proton Pump Inhibitor,1
+OMNIPAQUE,Radiographic Contrast Agent,1
+OMNITROPE,Recombinant Human Growth Hormone,1
+OMVOH,Interleukin-23 Antagonist,1
+ONCASPAR,Asparagine-specific Enzyme,1
+ONDANSETRON,Serotonin-3 Receptor Antagonist,1
+ONTRUZANT,HER2/neu Receptor Antagonist,1
+OPDIVO,Programmed Death Receptor-1 Blocking Antibody,1
+OPDUALAG,Programmed Death Receptor-1 Blocking Antibody,2
+OPSUMIT,Endothelin Receptor Antagonist,1
+ORENCIA,Selective T Cell Costimulation Modulator,1
+ORENITRAM,Prostacycline Vasodilator,1
+ORGOVYX,Gonadotropin Releasing Hormone Receptor Antagonist,1
+ORKAMBI,Cystic Fibrosis Transmembrane Conductance Regulator Potentiator,1
+OTEZLA,Phosphodiesterase 4 Inhibitor,1
+OXALIPLATIN,Platinum-based Drug,1
+OXCARBAZEPINE,Anti-epileptic Agent,1
+OXERVATE,Recombinant Human Nerve Growth Factor,1
+OXYTOCIN,Oxytocic,1
+OZEMPIC,GLP-1 Receptor Agonist,1
+OZURDEX,Corticosteroid,1
+PACLITAXEL,Microtubule Inhibitor,1
+PALBOCICLIB,Kinase Inhibitor,1
+PALYNZIQ,Phenylalanine Metabolizing Enzyme,1
+PARAGARD T 380A,Copper-containing Intrauterine Device,1
+PEGFILGRASTIM,Leukocyte Growth Factor,1
+PEMAZYRE,Kinase Inhibitor,1
+PEMBROLIZUMAB,Programmed Death Receptor-1 Blocking Antibody,1
+PEMETREXED,Folate Analog Metabolic Inhibitor,1
+PENTASA,Aminosalicylate,1
+PERJETA,HER2/neu Receptor Antagonist,1
+PHENYLEPHRINE,alpha-1 Adrenergic Agonist,1
+PHENYTOIN,Anti-epileptic Agent,1
+PIRFENIDONE,Pyridone,1
+PLEGRIDY,Interferon beta,1
+PLUVICTO,Radioligand Therapeutic Agent,1
+POLYETHYLENE GLYCOL 3350,Osmotic Laxative,1
+POMALIDOMIDE,Thalidomide Analog,1
+POMALYST,Thalidomide Analog,1
+PRALUENT,PCSK9 Inhibitor,1
+PREDNISOLONE,Corticosteroid,1
+PREDNISONE,Corticosteroid,1
+PREMARIN,Estrogen,1
+PROGESTERONE,Progesterone,1
+PROLIA,RANK Ligand Inhibitor,1
+PROPOFOL,General Anesthetic,1
+PROVENGE,Autologous Cellular Immunotherapy,1
+PULMICORT RESPULES,Corticosteroid,1
+PYRAZINAMIDE,Antimycobacterial,1
+PYZCHIVA,Interleukin-12 Antagonist,2
+QALSODY,Antisense Oligonucleotide,1
+QINLOCK,Kinase Inhibitor,1
+QUETIAPINE,Atypical Antipsychotic,1
+QULIPTA,Calcitonin Gene-related Peptide Receptor Antagonist,1
+QUVIVIQ,Orexin Receptor Antagonist,1
+RAMIPRIL,Angiotensin Converting Enzyme Inhibitor,1
+RANIBIZUMAB,Vascular Endothelial Growth Factor Inhibitor,1
+RANITIDINE,Histamine-2 Receptor Antagonist,1
+RAVULIZUMAB,Complement Inhibitor,1
+REBIF,Interferon beta,1
+REBLOZYL,Erythroid Maturation Agent,1
+REFRESH TEARS PF,Non-Standardized Chemical Allergen,1
+REGADENOSON,Pharmacologic Cardiac Stress Test Agent,2
+REMDESIVIR,SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor,1
+REMICADE,Tumor Necrosis Factor Blocker,1
+RENFLEXIS,Tumor Necrosis Factor Blocker,1
+REPATHA,PCSK9 Inhibitor,1
+RESTASIS,Calcineurin Inhibitor Immunosuppressant,1
+REVLIMID,Thalidomide Analog,1
+REXULTI,Atypical Antipsychotic,1
+REZDIFFRA,Thyroid Hormone Receptor beta Agonist,1
+RHAPSIDO,Kinase Inhibitor,1
+RIFABUTIN,Rifamycin Antimycobacterial,1
+RIFAMPIN,Rifamycin Antibacterial,1
+RILZABRUTINIB,Kinase Inhibitor,1
+RINVOQ,Janus Kinase Inhibitor,1
+RISPERDAL,Atypical Antipsychotic,1
+RISPERIDONE,Atypical Antipsychotic,1
+RITUXIMAB,CD20-directed Cytolytic Antibody,1
+RIVAROXABAN,Factor Xa Inhibitor,1
+RIVASTIGMINE,Cholinesterase Inhibitor,1
+ROMVIMZA,Kinase Inhibitor,1
+ROSUVASTATIN,HMG-CoA Reductase Inhibitor,1
+RUXIENCE,CD20-directed Cytolytic Antibody,1
+RUXOLITINIB,Kinase Inhibitor,2
+RYBELSUS,GLP-1 Receptor Agonist,1
+SABRIL,Anti-epileptic Agent,1
+SEVOFLURANE,General Anesthetic,1
+SILDENAFIL,Phosphodiesterase 5 Inhibitor,1
+SILIQ,Interleukin-17 Receptor A Antagonist,1
+SIMVASTATIN,HMG-CoA Reductase Inhibitor,1
+SIROLIMUS,mTOR Inhibitor Immunosuppressant,2
+SKYLA,Progestin,2
+SKYRIZI,Interleukin-23 Antagonist,1
+SKYTROFA,Recombinant Human Growth Hormone,1
+SODIUM CHLORIDE,Osmotic Laxative,1
+SOLIRIS,Complement Inhibitor,1
+SOMATROPIN,Recombinant Human Growth Hormone,1
+SOTYKTU,Tyrosine Kinase 2 Inhibitor,1
+SPARSENTAN,Endothelin Receptor Antagonist,2
+SPEVIGO,Interleukin-36 Receptor Antagonist,1
+SPINRAZA,Survival Motor Neuron-2-directed RNA Interaction,2
+STELARA,Interleukin-12 Antagonist,2
+STRENSIQ,Tissue-nonspecific Alkaline Phosphatase,1
+SUMATRIPTAN,Serotonin-1b and Serotonin-1d Receptor Agonist,1
+SUZETRIGINE,Sodium Channel Blocker,1
+SYMBICORT,Corticosteroid,1
+TADALAFIL,Phosphodiesterase 5 Inhibitor,1
+TALTZ,Interleukin-17A Antagonist,1
+TARPEYO,Corticosteroid,1
+TAVNEOS,Complement 5a Receptor Antagonist,1
+TECENTRIQ,Programmed Death Receptor-1 Blocking Antibody,1
+TEGRETOL,Mood Stabilizer,1
+TEGRETOL XR,Mood Stabilizer,1
+TEMODAR,Alkylating Drug,1
+TEMOZOLOMIDE,Alkylating Drug,1
+TERBINAFINE,Allylamine Antifungal,1
+TERIFLUNOMIDE,Pyrimidine Synthesis Inhibitor,1
+TERIPARATIDE,Parathyroid Hormone Analog,1
+TESTOSTERONE,Androgen,1
+TEVIMBRA,Programmed Death Receptor-1 Blocking Antibody,1
+TEZSPIRE,Thymic Stromal Lymphopoietin Blocker,1
+THIOLA EC,Reducing and Complexing Thiol,1
+TIBSOVO,Isocitrate Dehydrogenase 1 Inhibitor,1
+TICAGRELOR,P2Y12 Platelet Inhibitor,1
+TIGECYCLINE,Tetracycline-class Antibacterial,1
+TIRZEPATIDE,Glucose-dependent Insulinotropic Polypeptide Receptor Agonist,2
+TOBI PODHALER,Aminoglycoside Antibacterial,1
+TOCILIZUMAB,Interleukin-6 Receptor Antagonist,1
+TOLVAPTAN,Vasopressin V2 Receptor Antagonist,1
+TOUJEO,Insulin Analog,1
+TOUJEO MAX,Insulin Analog,1
+TRASTUZUMAB,HER2/neu Receptor Antagonist,1
+TRAVATAN Z,Prostaglandin Analog,1
+TREMFYA,Interleukin-23 Antagonist,1
+TRESIBA,Insulin Analog,1
+TRETINOIN,Retinoid,1
+TRIAMCINOLONE ACETONIDE,Corticosteroid,1
+TRILEPTAL,Anti-epileptic Agent,1
+TRIUMEQ,Hepatitis B Virus Nucleoside Analog Reverse Transcriptase Inhibitor,2
+TRULICITY,GLP-1 Receptor Agonist,1
+TRUVADA,Human Immunodeficiency Virus Nucleoside Analog Reverse Transcriptase Inhibitor,1
+TYENNE,Interleukin-6 Receptor Antagonist,1
+TYLENOL,Expectorant,1
+TYMLOS,Parathyroid Hormone-Related Peptide Analog,1
+TYSABRI,Integrin Receptor Antagonist,1
+TYVASO DPI,Prostacycline Vasodilator,1
+UDENYCA,Leukocyte Growth Factor,1
+ULTOMIRIS,Complement Inhibitor,1
+ULTRAVIST,Radiographic Contrast Agent,1
+UPADACITINIB,Janus Kinase Inhibitor,1
+USTEKINUMAB,Interleukin-12 Antagonist,2
+VALSARTAN,Angiotensin 2 Receptor Blocker,1
+VANCOMYCIN,Glycopeptide Antibacterial,1
+VANCOMYCIN HYDROCHLORIDE,Glycopeptide Antibacterial,1
+VECTIBIX,Epidermal Growth Factor Receptor Antagonist,1
+VEDOLIZUMAB,Integrin Receptor Antagonist,1
+VEKLURY,SARS-CoV-2 Nucleotide Analog RNA Polymerase Inhibitor,1
+VENCLEXTA,BCL-2 Inhibitor,1
+VENETOCLAX,BCL-2 Inhibitor,1
+VENOFER,Parenteral Iron Replacement,1
+VEVYE,Calcineurin Inhibitor Immunosuppressant,1
+VICTOZA,GLP-1 Receptor Agonist,1
+VIDAZA,Nucleoside Metabolic Inhibitor,1
+VIGABATRIN,Anti-epileptic Agent,1
+VIMIZIM,Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme,1
+VIZAMYL,Radioactive Diagnostic Agent,1
+VONJO,Kinase Inhibitor,1
+VORICONAZOLE,Azole Antifungal,1
+VRAYLAR,Atypical Antipsychotic,1
+VYEPTI,Calcitonin Gene-related Peptide Antagonist,1
+VYVGART,Neonatal Fc Receptor Blocker,1
+VYVGART HYTRULO,Endoglycosidase,2
+WAYRILZ,Kinase Inhibitor,1
+WELIREG,Hypoxia-inducible Factor Inhibitor,1
+WYOST,RANK Ligand Inhibitor,1
+XARELTO,Factor Xa Inhibitor,1
+XDEMVY,Ectoparasiticide,1
+XELODA,Nucleoside Metabolic Inhibitor,1
+XEOMIN,Acetylcholine Release Inhibitor,2
+XGEVA,RANK Ligand Inhibitor,1
+XIFAXAN,Rifamycin Antibacterial,1
+XOLAIR,Anti-IgE,1
+XOLAIR PFS,Anti-IgE,1
+XPOVIO,Nuclear Export Inhibitor,1
+XTANDI,Androgen Receptor Inhibitor,1
+YESCARTA,CD19-directed Chimeric Antigen Receptor,2
+YONDELIS,Alkylating Drug,1
+ZAFEMY,Progestin,2
+ZENATANE,Retinoid,1
+ZEPBOUND,Glucose-dependent Insulinotropic Polypeptide Receptor Agonist,2
+ZEPBOUND KWIKPEN,Glucose-dependent Insulinotropic Polypeptide Receptor Agonist,2
+ZERVIATE,Histamine-1 Receptor Antagonist,1
+ZETIA,Dietary Cholesterol Absorption Inhibitor,1
+ZILBRYSQ,Complement Inhibitor,1
+ZILUCOPLAN,Complement Inhibitor,1
+ZONISAMIDE,Anti-epileptic Agent,1
+ZURZUVAE,Neuroactive Steroid Gamma-Aminobutyric Acid A Receptor Positive Modulator,1

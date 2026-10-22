@@ -1,0 +1,288 @@
+reaction,reaction_category
+Abdominal discomfort,Gut and liver
+Abdominal distension,Gut and liver
+Abdominal pain,Gut and liver
+Abdominal pain upper,Gut and liver
+Abnormal dreams,"Brain, nerves and mood"
+Abortion spontaneous,Other organs and cancer
+Accidental exposure to product,Product use or dosing error
+Accidental poisoning,Product use or dosing error
+Accidental underdose,Product use or dosing error
+Acne,"Skin, allergy and injection site"
+Acute kidney injury,Other organs and cancer
+Adverse drug reaction,General symptoms
+Adverse event,General symptoms
+Ageusia,Gut and liver
+Agranulocytosis,"Heart, blood and circulation"
+Alopecia,"Skin, allergy and injection site"
+Anaemia,"Heart, blood and circulation"
+Anaphylactic reaction,"Skin, allergy and injection site"
+Anaphylactic shock,"Skin, allergy and injection site"
+Angioedema,"Skin, allergy and injection site"
+Anxiety,"Brain, nerves and mood"
+Arthralgia,"Muscles, bones and joints"
+Arthritis,"Muscles, bones and joints"
+Aspartate aminotransferase increased,Gut and liver
+Asthenia,General symptoms
+Asthma,Infection and breathing
+Atrial fibrillation,"Heart, blood and circulation"
+Autism spectrum disorder,"Brain, nerves and mood"
+Back pain,"Muscles, bones and joints"
+Blindness,Other organs and cancer
+Blister,"Skin, allergy and injection site"
+Blood cholesterol increased,Other organs and cancer
+Blood glucose decreased,Other organs and cancer
+Blood glucose increased,Other organs and cancer
+Blood pressure increased,"Heart, blood and circulation"
+Brain fog,"Brain, nerves and mood"
+Brain neoplasm,Other organs and cancer
+Breast cancer,Other organs and cancer
+Burning sensation,"Skin, allergy and injection site"
+COVID-19,Infection and breathing
+Cardiac arrest,"Heart, blood and circulation"
+Cardiac disorder,"Heart, blood and circulation"
+Cardiac failure,"Heart, blood and circulation"
+Cardiac failure congestive,"Heart, blood and circulation"
+Cardiac operation,Death or hospital care
+Cataract,Other organs and cancer
+Cellulitis,Infection and breathing
+Cerebral haemorrhage,"Heart, blood and circulation"
+Cerebral infarction,"Heart, blood and circulation"
+Cerebrovascular accident,"Heart, blood and circulation"
+Chest discomfort,"Heart, blood and circulation"
+Chest pain,"Heart, blood and circulation"
+Chills,General symptoms
+Cholecystectomy,Death or hospital care
+Chronic kidney disease,Other organs and cancer
+Chronic obstructive pulmonary disease,Infection and breathing
+Colitis,Gut and liver
+Colitis ulcerative,Gut and liver
+Condition aggravated,Lack of effect
+Congenital anomaly,Other organs and cancer
+Constipation,Gut and liver
+Contusion,"Muscles, bones and joints"
+Cough,Infection and breathing
+Crohn^s disease,Gut and liver
+Cytokine release syndrome,"Heart, blood and circulation"
+Death,Death or hospital care
+Decreased appetite,Gut and liver
+Deep vein thrombosis,"Heart, blood and circulation"
+Dehydration,General symptoms
+Delusion,"Brain, nerves and mood"
+Dementia,"Brain, nerves and mood"
+Depressed mood,"Brain, nerves and mood"
+Depression,"Brain, nerves and mood"
+Dermatitis,"Skin, allergy and injection site"
+Dermatitis atopic,"Skin, allergy and injection site"
+Device adhesion issue,Product use or dosing error
+Device breakage,Product use or dosing error
+Device defective,Product use or dosing error
+Device deployment issue,Product use or dosing error
+Device difficult to use,Product use or dosing error
+Device dislocation,Product use or dosing error
+Device expulsion,Product use or dosing error
+Device issue,Product use or dosing error
+Device leakage,Product use or dosing error
+Device malfunction,Product use or dosing error
+Device mechanical issue,Product use or dosing error
+Device use error,Product use or dosing error
+Diabetes mellitus,Other organs and cancer
+Diarrhoea,Gut and liver
+Disease progression,Lack of effect
+Dizziness,"Brain, nerves and mood"
+Drug dependence,"Brain, nerves and mood"
+Drug dose omission by device,Product use or dosing error
+Drug effect less than expected,Lack of effect
+Drug effective for unapproved indication,Product use or dosing error
+Drug hypersensitivity,"Skin, allergy and injection site"
+Drug ineffective,Lack of effect
+Drug ineffective for unapproved indication,Product use or dosing error
+Drug intolerance,General symptoms
+Drug-induced liver injury,Gut and liver
+Dry eye,Other organs and cancer
+Dry mouth,Gut and liver
+Dry skin,"Skin, allergy and injection site"
+Dyskinesia,"Brain, nerves and mood"
+Dysphagia,Gut and liver
+Dyspnoea,Infection and breathing
+Eczema,"Skin, allergy and injection site"
+End stage renal disease,Other organs and cancer
+Eosinophilic oesophagitis,Gut and liver
+Epistaxis,Infection and breathing
+Erectile dysfunction,Other organs and cancer
+Erythema,"Skin, allergy and injection site"
+Expired product administered,Product use or dosing error
+Exposure during pregnancy,Product use or dosing error
+Extra dose administered,Product use or dosing error
+Eye disorder,Other organs and cancer
+Eye irritation,Other organs and cancer
+Eye pain,Other organs and cancer
+Eye swelling,Other organs and cancer
+Eyelid pain,Other organs and cancer
+Fall,"Muscles, bones and joints"
+Fatigue,General symptoms
+Feeling abnormal,General symptoms
+Femur fracture,"Muscles, bones and joints"
+Foetal exposure during pregnancy,Product use or dosing error
+Fracture,"Muscles, bones and joints"
+Full blood count decreased,"Heart, blood and circulation"
+Gait disturbance,"Brain, nerves and mood"
+Gait inability,"Brain, nerves and mood"
+Gastrointestinal disorder,Gut and liver
+Gastrooesophageal reflux disease,Gut and liver
+General physical health deterioration,Death or hospital care
+Generalised tonic-clonic seizure,"Brain, nerves and mood"
+Haematochezia,Gut and liver
+Haemorrhage,"Heart, blood and circulation"
+Hallucination,"Brain, nerves and mood"
+Headache,"Brain, nerves and mood"
+Heart rate increased,"Heart, blood and circulation"
+Hepatic enzyme increased,Gut and liver
+Hernia,Gut and liver
+Hip fracture,"Muscles, bones and joints"
+Hospice care,Death or hospital care
+Hospitalisation,Death or hospital care
+Hot flush,General symptoms
+Hypersensitivity,"Skin, allergy and injection site"
+Hypersensitivity pneumonitis,Infection and breathing
+Hypertension,"Heart, blood and circulation"
+Hypoacusis,Other organs and cancer
+Hypokalaemia,Other organs and cancer
+Hypotension,"Heart, blood and circulation"
+Hypoxia,Infection and breathing
+Illness,General symptoms
+Inappropriate schedule of product administration,Product use or dosing error
+Incorrect dose administered,Product use or dosing error
+Incorrect dose administered by device,Product use or dosing error
+Incorrect product administration duration,Product use or dosing error
+Infection,Infection and breathing
+Influenza,Infection and breathing
+Infusion related reaction,"Skin, allergy and injection site"
+Injection site bruising,"Skin, allergy and injection site"
+Injection site erythema,"Skin, allergy and injection site"
+Injection site haemorrhage,"Skin, allergy and injection site"
+Injection site pain,"Skin, allergy and injection site"
+Injection site rash,"Skin, allergy and injection site"
+Injection site reaction,"Skin, allergy and injection site"
+Injection site swelling,"Skin, allergy and injection site"
+Injection site warmth,"Skin, allergy and injection site"
+Insomnia,"Brain, nerves and mood"
+Interstitial lung disease,Infection and breathing
+Intestinal obstruction,Gut and liver
+Joint swelling,"Muscles, bones and joints"
+Knee arthroplasty,Death or hospital care
+Lip swelling,"Skin, allergy and injection site"
+Liver disorder,Gut and liver
+Liver function test increased,Gut and liver
+Loss of consciousness,"Brain, nerves and mood"
+Lower respiratory tract infection,Infection and breathing
+Lung disorder,Infection and breathing
+Macular degeneration,Other organs and cancer
+Malaise,General symptoms
+Malignant neoplasm progression,Lack of effect
+Maternal exposure during pregnancy,Product use or dosing error
+Memory impairment,"Brain, nerves and mood"
+Migraine,"Brain, nerves and mood"
+Multiple organ dysfunction syndrome,Death or hospital care
+Multiple sclerosis,"Brain, nerves and mood"
+Multiple sclerosis relapse,Lack of effect
+Muscle spasms,"Muscles, bones and joints"
+Myalgia,"Muscles, bones and joints"
+Myelosuppression,"Heart, blood and circulation"
+Myocardial infarction,"Heart, blood and circulation"
+Nasopharyngitis,Infection and breathing
+Nausea,Gut and liver
+Needle issue,Product use or dosing error
+Neoplasm malignant,Other organs and cancer
+Nephrolithiasis,Other organs and cancer
+Neuralgia,"Brain, nerves and mood"
+Neurodermatitis,"Skin, allergy and injection site"
+Neuropathy peripheral,"Brain, nerves and mood"
+Neutropenia,"Heart, blood and circulation"
+Nightmare,"Brain, nerves and mood"
+No adverse event,General symptoms
+Ocular hyperaemia,Other organs and cancer
+Oedema peripheral,General symptoms
+Off label use,Product use or dosing error
+Overdose,Product use or dosing error
+Oxygen saturation decreased,Infection and breathing
+Pain,General symptoms
+Pain in extremity,"Muscles, bones and joints"
+Pancreatic carcinoma,Other organs and cancer
+Pancreatitis,Gut and liver
+Pancytopenia,"Heart, blood and circulation"
+Paraesthesia,"Brain, nerves and mood"
+Parkinsonism,"Brain, nerves and mood"
+Peripheral swelling,General symptoms
+Platelet count decreased,"Heart, blood and circulation"
+Pneumonia,Infection and breathing
+Pollakiuria,Other organs and cancer
+Presyncope,"Brain, nerves and mood"
+Product administered at inappropriate site,Product use or dosing error
+Product dose omission in error,Product use or dosing error
+Product dose omission issue,Product use or dosing error
+Product prescribing error,Product use or dosing error
+Product storage error,Product use or dosing error
+Product use in unapproved indication,Product use or dosing error
+Product use issue,Product use or dosing error
+Pruritus,"Skin, allergy and injection site"
+Psoriasis,"Skin, allergy and injection site"
+Pulmonary embolism,"Heart, blood and circulation"
+Pyrexia,General symptoms
+Rash,"Skin, allergy and injection site"
+Rash erythematous,"Skin, allergy and injection site"
+Rash macular,"Skin, allergy and injection site"
+Recalled product administered,Product use or dosing error
+Renal disorder,Other organs and cancer
+Renal failure,Other organs and cancer
+Renal impairment,Other organs and cancer
+Reproductive complication associated with device,Other organs and cancer
+Respiratory failure,Infection and breathing
+Rhabdomyolysis,"Muscles, bones and joints"
+Rheumatoid arthritis,"Muscles, bones and joints"
+Rhinorrhoea,Infection and breathing
+Road traffic accident,General symptoms
+Schizophrenia,"Brain, nerves and mood"
+Seizure,"Brain, nerves and mood"
+Sepsis,Infection and breathing
+Sinusitis,Infection and breathing
+Sleep disorder due to a general medical condition,"Brain, nerves and mood"
+Somnolence,"Brain, nerves and mood"
+Spinal fracture,"Muscles, bones and joints"
+Spinal operation,Death or hospital care
+Suicidal ideation,"Brain, nerves and mood"
+Surgery,Death or hospital care
+Swelling face,"Skin, allergy and injection site"
+Syncope,"Brain, nerves and mood"
+Systemic lupus erythematosus,"Muscles, bones and joints"
+Tendon rupture,"Muscles, bones and joints"
+Therapeutic product effect decreased,Lack of effect
+Therapeutic product effect incomplete,Lack of effect
+Therapeutic response changed,Lack of effect
+Therapeutic response decreased,Lack of effect
+Therapeutic response unexpected,Lack of effect
+Therapy cessation,Product use or dosing error
+Therapy interrupted,Product use or dosing error
+Therapy non-responder,Lack of effect
+Throat tightness,"Skin, allergy and injection site"
+Thrombocytopenia,"Heart, blood and circulation"
+Thrombosis,"Heart, blood and circulation"
+Tinnitus,Other organs and cancer
+Tooth disorder,Gut and liver
+Toxicity to various agents,General symptoms
+Treatment failure,Lack of effect
+Tremor,"Brain, nerves and mood"
+Underdose,Product use or dosing error
+Unevaluable event,General symptoms
+Urinary tract infection,Infection and breathing
+Urticaria,"Skin, allergy and injection site"
+Vaginal haemorrhage,Other organs and cancer
+Vertigo,"Brain, nerves and mood"
+Vision blurred,Other organs and cancer
+Visual impairment,Other organs and cancer
+Vomiting,Gut and liver
+Weight decreased,General symptoms
+Weight increased,General symptoms
+White blood cell count decreased,"Heart, blood and circulation"
+Wrong technique in device usage process,Product use or dosing error
+Wrong technique in product usage process,Product use or dosing error
