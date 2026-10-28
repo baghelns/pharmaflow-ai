@@ -1,0 +1,38 @@
+-- Result 1
+┌──────────────┬───────┬─────────┐
+│   found_in   │ codes │ reports │
+│   varchar    │ int64 │ int128  │
+├──────────────┼───────┼─────────┤
+│ both         │    48 │    5494 │
+│ lookup only  │     6 │       0 │
+│ reports only │    34 │     321 │
+└──────────────┴───────┴─────────┘
+
+-- Result 2
+┌─────────┬─────────┐
+│ country │ reports │
+│ varchar │  int64  │
+├─────────┼─────────┤
+│ EU      │     229 │
+│ TW      │      16 │
+│ PR      │      12 │
+│ PT      │      12 │
+│ SA      │       7 │
+│ SG      │       6 │
+│ MA      │       4 │
+│ PK      │       4 │
+└─────────┴─────────┘
+
+-- Result 3
+┌──────────────┬───────────────┬─────────────────┐
+│ country_code │ country_name  │ business_region │
+│   varchar    │    varchar    │     varchar     │
+├──────────────┼───────────────┼─────────────────┤
+│ BD           │ Bangladesh    │ APAC            │
+│ EC           │ Ecuador       │ LATAM           │
+│ FI           │ Finland       │ EMEA            │
+│ GW           │ Guinea-Bissau │ EMEA            │
+│ LY           │ Libya         │ EMEA            │
+│ RS           │ Serbia        │ EMEA            │
+└──────────────┴───────────────┴─────────────────┘
+

@@ -1,0 +1,60 @@
+-- Result 1
+┌─────────┬───────┐
+│ classes │ rows  │
+│  int64  │ int64 │
+├─────────┼───────┤
+│     225 │   250 │
+└─────────┴───────┘
+
+-- Result 2
+┌───────────────────────────────────────────────────────────────┬───────────┬─────────┐
+│                          drug_class                           │ drug_name │ reports │
+│                            varchar                            │  varchar  │  int64  │
+├───────────────────────────────────────────────────────────────┼───────────┼─────────┤
+│ Interleukin-4 Receptor alpha Antagonist                       │ DUPIXENT  │     621 │
+│ Interleukin-23 Antagonist                                     │ SKYRIZI   │     139 │
+│ Janus Kinase Inhibitor                                        │ RINVOQ    │     105 │
+│ GLP-1 Receptor Agonist                                        │ VICTOZA   │      69 │
+│ Glucose-dependent Insulinotropic Polypeptide Receptor Agonist │ ZEPBOUND  │      68 │
+│ Atypical Antipsychotic                                        │ CAPLYTA   │      61 │
+│ Thalidomide Analog                                            │ REVLIMID  │      61 │
+│ Tumor Necrosis Factor Blocker                                 │ ENBREL    │      35 │
+└───────────────────────────────────────────────────────────────┴───────────┴─────────┘
+
+-- Result 3
+┌──────────────────────────────────┬────────────┬─────────┐
+│            drug_class            │ tied_drugs │ reports │
+│             varchar              │   int64    │  int64  │
+├──────────────────────────────────┼────────────┼─────────┤
+│ Endothelin Receptor Antagonist   │          2 │       6 │
+│ Mood Stabilizer                  │          2 │       3 │
+│ Opioid Agonist                   │          2 │       3 │
+│ Phosphodiesterase 5 Inhibitor    │          2 │       3 │
+│ Recombinant Human Growth Hormone │          2 │       3 │
+└──────────────────────────────────┴────────────┴─────────┘
+
+-- Result 4
+┌────────────────────────────────┬───────────┬─────────┐
+│           drug_class           │ drug_name │ reports │
+│            varchar             │  varchar  │  int64  │
+├────────────────────────────────┼───────────┼─────────┤
+│ Endothelin Receptor Antagonist │ FILSPARI  │       6 │
+│ Endothelin Receptor Antagonist │ OPSUMIT   │       6 │
+└────────────────────────────────┴───────────┴─────────┘
+
+-- Result 5
+┌────────────────────┐
+│ classes_with_a_tie │
+│       int64        │
+├────────────────────┤
+│                 19 │
+└────────────────────┘
+
+-- Result 6
+┌─────────────────────┐
+│ rows_on_empty_table │
+│        int64        │
+├─────────────────────┤
+│                   0 │
+└─────────────────────┘
+
