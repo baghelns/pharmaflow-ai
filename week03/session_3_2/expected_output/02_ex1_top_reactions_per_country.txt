@@ -1,0 +1,69 @@
+-- Result 1
+┌─────────┬─────────┬─────────────────────┐
+│ country │ reports │ different_reactions │
+│ varchar │ int128  │        int64        │
+├─────────┼─────────┼─────────────────────┤
+│ US      │    4234 │                1053 │
+│ GB      │     253 │                 187 │
+│ EU      │     229 │                 181 │
+│ JP      │     186 │                 152 │
+│ CA      │     170 │                 114 │
+└─────────┴─────────┴─────────────────────┘
+
+-- Result 2
+┌─────────┬───────────────────────────────────────┬─────────┬───────┐
+│ country │               reaction                │ reports │  rnk  │
+│ varchar │                varchar                │  int64  │ int64 │
+├─────────┼───────────────────────────────────────┼─────────┼───────┤
+│ CA      │ Death                                 │      32 │     1 │
+│ CA      │ Crohn^s disease                       │       4 │     2 │
+│ CA      │ Pneumonia                             │       4 │     2 │
+│ CA      │ Surgery                               │       4 │     2 │
+│ EU      │ Congenital anomaly                    │       9 │     1 │
+│ EU      │ Hepatic cytolysis                     │       4 │     2 │
+│ EU      │ Agranulocytosis                       │       3 │     3 │
+│ EU      │ Aspartate aminotransferase increased  │       3 │     3 │
+│ EU      │ Death                                 │       3 │     3 │
+│ EU      │ Drug ineffective                      │       3 │     3 │
+│ EU      │ General physical health deterioration │       3 │     3 │
+│ EU      │ Malignant neoplasm progression        │       3 │     3 │
+│ EU      │ Neutropenia                           │       3 │     3 │
+│ EU      │ Pericarditis                          │       3 │     3 │
+│ GB      │ Death                                 │      10 │     1 │
+│ GB      │ Depressed mood                        │       7 │     2 │
+│ GB      │ Muscle spasms                         │       5 │     3 │
+│ GB      │ Surgery                               │       5 │     3 │
+│ JP      │ Death                                 │       5 │     1 │
+│ JP      │ Malignant neoplasm progression        │       5 │     1 │
+│ JP      │ Hospitalisation                       │       4 │     3 │
+│ US      │ Drug ineffective                      │     158 │     1 │
+│ US      │ Death                                 │     132 │     2 │
+│ US      │ Off label use                         │     105 │     3 │
+└─────────┴───────────────────────────────────────┴─────────┴───────┘
+  24 rows                                                 4 columns
+
+-- Result 3
+┌─────────┬───────────────┬─────────┬───────────────┐
+│ country │ by_row_number │ by_rank │ by_dense_rank │
+│ varchar │     int64     │  int64  │     int64     │
+├─────────┼───────────────┼─────────┼───────────────┤
+│ CA      │             3 │       4 │             6 │
+│ EU      │             3 │      10 │            10 │
+│ GB      │             3 │       4 │             4 │
+│ JP      │             3 │       3 │             6 │
+│ US      │             3 │       3 │             3 │
+└─────────┴───────────────┴─────────┴───────────────┘
+
+-- Result 4
+┌────────────────────┬─────────┬─────────┬───────┬───────────┐
+│      reaction      │ reports │ row_num │  rnk  │ dense_rnk │
+│      varchar       │  int64  │  int64  │ int64 │   int64   │
+├────────────────────┼─────────┼─────────┼───────┼───────────┤
+│ Death              │      32 │       1 │     1 │         1 │
+│ Crohn^s disease    │       4 │       2 │     2 │         2 │
+│ Pneumonia          │       4 │       3 │     2 │         2 │
+│ Surgery            │       4 │       4 │     2 │         2 │
+│ COVID-19           │       3 │       5 │     5 │         3 │
+│ Neoplasm malignant │       3 │       6 │     5 │         3 │
+└────────────────────┴─────────┴─────────┴───────┴───────────┘
+

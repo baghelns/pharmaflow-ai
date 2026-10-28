@@ -1,0 +1,52 @@
+-- Result 1
+┌─────────┬───────────────────────┬──────────────────┬───────────────┐
+│ classes │ classes_with_2_counts │ classes_answered │ rows_returned │
+│  int64  │         int64         │      int64       │     int64     │
+├─────────┼───────────────────────┼──────────────────┼───────────────┤
+│     225 │                    97 │               97 │           116 │
+└─────────┴───────────────────────┴──────────────────┴───────────────┘
+
+-- Result 2
+┌────────────────────────────────┬──────────────┬─────────┬───────────────┐
+│          class_label           │  drug_name   │ reports │ class_reports │
+│            varchar             │   varchar    │  int64  │    int128     │
+├────────────────────────────────┼──────────────┼─────────┼───────────────┤
+│ Interleukin-4 Receptor alpha … │ DUPILUMAB    │       9 │           630 │
+│ Interleukin-23 Antagonist      │ TREMFYA      │      23 │           171 │
+│ Thalidomide Analog             │ LENALIDOMIDE │      58 │           161 │
+│ Atypical Antipsychotic         │ CLOZAPINE    │      35 │           148 │
+│ Glucose-dependent Insulinotro… │ MOUNJARO     │      59 │           132 │
+│ Janus Kinase Inhibitor         │ UPADACITINIB │      16 │           127 │
+│ Tumor Necrosis Factor Blocker  │ CIMZIA       │      18 │           114 │
+│ GLP-1 Receptor Agonist         │ OZEMPIC      │      25 │           113 │
+└────────────────────────────────┴──────────────┴─────────┴───────────────┘
+
+-- Result 3
+┌──────────────────┬───────────────┬─────────┐
+│      method      │ rows_returned │ classes │
+│     varchar      │     int64     │  int64  │
+├──────────────────┼───────────────┼─────────┤
+│ DENSE_RANK() = 2 │           116 │      97 │
+│ RANK() = 2       │           112 │      93 │
+│ ROW_NUMBER() = 2 │           112 │     112 │
+└──────────────────┴───────────────┴─────────┘
+
+-- Result 4
+┌─────────────┬─────────┬───────┬───────────┐
+│  drug_name  │ reports │  rnk  │ dense_rnk │
+│   varchar   │  int64  │ int64 │   int64   │
+├─────────────┼─────────┼───────┼───────────┤
+│ FILSPARI    │       6 │     1 │         1 │
+│ OPSUMIT     │       6 │     1 │         1 │
+│ AMBRISENTAN │       3 │     3 │         2 │
+│ SPARSENTAN  │       1 │     4 │         3 │
+└─────────────┴─────────┴───────┴───────────┘
+
+-- Result 5
+┌─────────────────────┐
+│ rows_on_empty_table │
+│        int64        │
+├─────────────────────┤
+│                   0 │
+└─────────────────────┘
+
