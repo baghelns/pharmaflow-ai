@@ -1,0 +1,50 @@
+-- Result 1
+┌──────────────────────────┬─────────┐
+│           file           │ reports │
+│         varchar          │  int64  │
+├──────────────────────────┼─────────┤
+│ adverse_events_10k.csv   │    6218 │
+│ adverse_events_1000.json │    1000 │
+└──────────────────────────┴─────────┘
+
+-- Result 2
+┌──────────────────┬─────────────┬────────────────┬─────────┐
+│   column_name    │ csv_guessed │ csv_with_types │  json   │
+│     varchar      │   varchar   │    varchar     │ varchar │
+├──────────────────┼─────────────┼────────────────┼─────────┤
+│ country          │ VARCHAR     │ VARCHAR        │ VARCHAR │
+│ drug_name        │ VARCHAR     │ VARCHAR        │ VARCHAR │
+│ event_date       │ BIGINT      │ VARCHAR        │ VARCHAR │
+│ patient_age      │ BIGINT      │ BIGINT         │ VARCHAR │
+│ patient_age_unit │ BIGINT      │ VARCHAR        │ NULL    │
+│ reaction         │ VARCHAR     │ VARCHAR        │ VARCHAR │
+│ safety_report_id │ BIGINT      │ VARCHAR        │ VARCHAR │
+│ serious          │ BIGINT      │ VARCHAR        │ VARCHAR │
+└──────────────────┴─────────────┴────────────────┴─────────┘
+
+-- Result 3
+┌─────────┬─────────┬───────┬───────────┬──────────┬───────┐
+│ source  │ reports │  ids  │ first_day │ last_day │ drugs │
+│ varchar │  int64  │ int64 │  varchar  │ varchar  │ int64 │
+├─────────┼─────────┼───────┼───────────┼──────────┼───────┤
+│ csv     │    6218 │  6218 │ 20240701  │ 20260604 │  1125 │
+│ json    │    1000 │  1000 │ 20140312  │ 20140313 │   539 │
+└─────────┴─────────┴───────┴───────────┴──────────┴───────┘
+
+-- Result 4
+┌─────────┬─────────────┬──────────────┬──────────────────┐
+│ source  │ pct_serious │ pct_with_age │ pct_with_country │
+│ varchar │   double    │    double    │      double      │
+├─────────┼─────────────┼──────────────┼──────────────────┤
+│ csv     │        47.0 │         51.5 │             93.5 │
+│ json    │        72.3 │         60.6 │            100.0 │
+└─────────┴─────────────┴──────────────┴──────────────────┘
+
+-- Result 5
+┌───────────────────┐
+│ ids_in_both_files │
+│       int64       │
+├───────────────────┤
+│                 0 │
+└───────────────────┘
+

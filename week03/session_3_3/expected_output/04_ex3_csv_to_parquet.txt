@@ -1,0 +1,50 @@
+-- Result 1
+┌──────────────────┬──────────┬──────────┬──────────────┐
+│   column_name    │ in_table │ csv_back │ parquet_back │
+│     varchar      │ varchar  │ varchar  │   varchar    │
+├──────────────────┼──────────┼──────────┼──────────────┤
+│ country          │ VARCHAR  │ VARCHAR  │ VARCHAR      │
+│ drug_name        │ VARCHAR  │ VARCHAR  │ VARCHAR      │
+│ patient_age      │ INTEGER  │ BIGINT   │ INTEGER      │
+│ patient_age_unit │ VARCHAR  │ BIGINT   │ VARCHAR      │
+│ reaction         │ VARCHAR  │ VARCHAR  │ VARCHAR      │
+│ report_date      │ DATE     │ DATE     │ DATE         │
+│ safety_report_id │ VARCHAR  │ BIGINT   │ VARCHAR      │
+│ serious          │ VARCHAR  │ BIGINT   │ VARCHAR      │
+└──────────────────┴──────────┴──────────┴──────────────┘
+
+-- Result 2
+┌─────────┬───────────────────┬───────────────┐
+│  file   │ missing_from_file │ extra_in_file │
+│ varchar │       int64       │     int64     │
+├─────────┼───────────────────┼───────────────┤
+│ parquet │                 0 │             0 │
+│ csv     │                 0 │             0 │
+└─────────┴───────────────────┴───────────────┘
+
+-- Result 3
+┌───────────────────────────┬────────┬────────────────┐
+│           file            │ bytes  │ pct_of_raw_csv │
+│          varchar          │ int64  │     double     │
+├───────────────────────────┼────────┼────────────────┤
+│ events_clean.csv          │ 359416 │          101.8 │
+│ adverse_events_10k.csv    │ 353198 │          100.0 │
+│ events_clean.parquet      │ 110873 │           31.4 │
+│ events_clean_zstd.parquet │  68182 │           19.3 │
+└───────────────────────────┴────────┴────────────────┘
+
+-- Result 4
+┌──────────────────┬────────────┬─────────────┬───────────────┬────────────────┐
+│   column_name    │    type    │ compression │ bytes_on_disk │ bytes_unpacked │
+│     varchar      │  varchar   │   varchar   │     int64     │     int64      │
+├──────────────────┼────────────┼─────────────┼───────────────┼────────────────┤
+│ reaction         │ BYTE_ARRAY │ SNAPPY      │         49401 │         128817 │
+│ safety_report_id │ BYTE_ARRAY │ SNAPPY      │         24500 │          74638 │
+│ drug_name        │ BYTE_ARRAY │ SNAPPY      │         21586 │          26541 │
+│ patient_age      │ INT32      │ SNAPPY      │          4237 │           4227 │
+│ country          │ BYTE_ARRAY │ SNAPPY      │          4021 │           6245 │
+│ report_date      │ INT32      │ SNAPPY      │          1287 │           3748 │
+│ patient_age_unit │ BYTE_ARRAY │ SNAPPY      │          1214 │           1644 │
+│ serious          │ BYTE_ARRAY │ SNAPPY      │           942 │           1000 │
+└──────────────────┴────────────┴─────────────┴───────────────┴────────────────┘
+

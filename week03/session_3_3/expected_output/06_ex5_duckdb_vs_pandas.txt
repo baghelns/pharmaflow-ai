@@ -1,0 +1,11 @@
+Rows in the 100x copy: 621,800 (6,218 x 100 = 621,800)
+CSV size: 34.7 MB
+pandas and DuckDB answers: MATCH
+
+drug_name  reports  pct_serious  reports_in_real_file
+ DUPIXENT    62100          8.4                   621
+CABOMETYX    17000         10.0                   170
+  SKYRIZI    13900         89.2                   139
+   RINVOQ    10500         85.7                   105
+ RYALTRIS     7900          0.0                    79
+
