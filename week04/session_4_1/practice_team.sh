@@ -31,7 +31,7 @@ PRACTICE=${PRACTICE_DIR:-$REPO/week04/session_4_1/practice}
 GITHUB=$PRACTICE/github.git
 YOU=$PRACTICE/you
 MATE=$PRACTICE/teammate
-LIB=week03/session_3_3/sql_library/03_top10_drugs.sql
+LIB=week04/session_4_1/top10_drugs.sql
 
 need_team() {
     [ -d "$YOU/.git" ] && [ -d "$MATE/.git" ] || {
@@ -64,8 +64,16 @@ setup)
         echo "Add the line  week04/session_4_1/practice/  to .gitignore and commit it first." >&2
         exit 1
     fi
-    if ! git -C "$REPO" cat-file -e "main:$LIB" 2>/dev/null; then
-        echo "$LIB is not committed on main. Commit your Week 3 work first." >&2
+    # The practice copies are made from your committed main branch, so the
+    # files the exercises use must be committed there.
+    missing=0
+    for f in "$LIB" week03/session_3_1/run_query.py data/raw/adverse_events_10k.csv; do
+        if ! git -C "$REPO" cat-file -e "main:$f" 2>/dev/null; then
+            echo "Not committed on main: $f" >&2; missing=1
+        fi
+    done
+    if [ "$missing" = 1 ]; then
+        echo "Commit (and push) these files first; see Set up your session." >&2
         exit 1
     fi
     # Step out first: your terminal may be inside the folders being replaced.
@@ -94,10 +102,10 @@ setup)
 ex3)
     need_team; mate_sync
     mate_replace "$LIB" \
-"-- Notes    : Several of the ten are there because of one bulk submission (see
---            08)." \
-"-- Notes    : Several of the ten are there because of one bulk submission (see
---            08). Reviewed with the Pharmacovigilance Lead."
+"-- Notes    : Several of the ten are there because of one bulk submission
+--            (Week 2)." \
+"-- Notes    : Several of the ten are there because of one bulk submission
+--            (Week 2). Reviewed with the Pharmacovigilance Lead."
     git -C "$MATE" commit -q -am "Record the Pharmacovigilance review of the top-10 file"
     git -C "$MATE" push -q origin main
     echo "Ravi pushed to main: \"Record the Pharmacovigilance review of the top-10 file\""
@@ -163,7 +171,7 @@ check5)
         [[ "$out" == *"10 rows"* ]]
     }
     check "the bad commit is still in the history (nothing rewritten)" on_github "$BAD"
-    check "03_top10_drugs.sql on GitHub matches the version before the bad commit" same_as_before_bad
+    check "top10_drugs.sql on GitHub matches the version before the bad commit" same_as_before_bad
     check "Ravi's README commit after it is still there" readme_kept
     check "your main is pushed (your copy and GitHub agree)" pushed
     check "the file on GitHub returns 10 rows again" ten_rows
