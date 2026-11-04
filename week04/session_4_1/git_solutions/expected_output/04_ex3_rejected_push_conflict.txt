@@ -1,0 +1,13 @@
+=== CHECK
+-- main, first parents
+Merge remote-tracking branch 'origin/main'
+Note which top-10 drugs depend on bulk submissions
+-- merged in from GitHub
+Record the Pharmacovigilance review of the top-10 file
+-- Notes
+-- Notes    : Several of the ten are there because of one bulk submission
+--            (Week 2): without those rows, RYALTRIS, OHTUVAYRE, OXERVATE
+--            and VICTOZA drop out. Reviewed with the Pharmacovigilance Lead.
+-- rows
+  10 rows                 3 columns
+pushed: yes

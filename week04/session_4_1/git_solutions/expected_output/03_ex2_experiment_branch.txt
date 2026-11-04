@@ -1,0 +1,13 @@
+=== CHECK
+-- branches
+main
+try/top10-without-batches
+-- on main
+│ RYALTRIS  │      79 │         0.0 │
+  10 rows                 3 columns
+(clean)
+-- on try/top10-without-batches
+│ DUPIXENT     │     343 │        11.7 │
+│ LENALIDOMIDE │      58 │        50.0 │
+  10 rows                    3 columns
+(clean)

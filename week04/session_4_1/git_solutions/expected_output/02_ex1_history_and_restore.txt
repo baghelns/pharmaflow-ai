@@ -1,0 +1,7 @@
+=== CHECK
+-- status
+(clean)
+-- first and last row, row count
+│ DUPIXENT  │     621 │         8.4 │
+│ VICTOZA   │      69 │        10.1 │
+  10 rows                 3 columns

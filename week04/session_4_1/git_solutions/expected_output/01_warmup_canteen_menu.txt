@@ -1,0 +1,22 @@
+=== CHECK
+-- menu.txt
+Masala chai, 20
+Samosa, 20
+Poha, 22
+Vada pav, 18
+Sweet lassi, 30
+-- history
+*   Merge branch 'chai-price'
+|\  
+| * Chai up to 18
+* | Chai up to 20
+|/  
+*   Merge branch 'add-lassi'
+|\  
+| * Add sweet lassi
+* | Poha down to 22
+|/  
+* Add vada pav
+* Opening menu: chai, samosa, poha
+-- status
+(clean)

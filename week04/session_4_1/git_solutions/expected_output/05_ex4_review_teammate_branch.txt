@@ -1,0 +1,15 @@
+=== CHECK
+-- commits on the branch
+Top 10: add the number of serious reports
+-- changed
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+-- the branch's serious_reports
+│ DUPIXENT  │     621 │             621 │         8.4 │
+│ CABOMETYX │     170 │             170 │        10.0 │
+│ SKYRIZI   │     139 │             139 │        89.2 │
+-- the counts it should show
+│ DUPIXENT  │     621 │                 621 │              52 │
+│ CABOMETYX │     170 │                 170 │              17 │
+│ SKYRIZI   │     139 │                 139 │             124 │
+-- your main
+unchanged, same as GitHub

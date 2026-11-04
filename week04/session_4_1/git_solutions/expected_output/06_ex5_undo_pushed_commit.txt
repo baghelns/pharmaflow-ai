@@ -1,0 +1,11 @@
+=== CHECK
+-- latest three on main
+Revert "Top 10: show only the leading drug"
+README: say who answers data questions
+Top 10: show only the leading drug
+PASS  the bad commit is still in the history (nothing rewritten)
+PASS  top10_drugs.sql on GitHub matches the version before the bad commit
+PASS  Ravi's README commit after it is still there
+PASS  your main is pushed (your copy and GitHub agree)
+PASS  the file on GitHub returns 10 rows again
+5 of 5 checks passed
