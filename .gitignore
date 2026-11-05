@@ -216,6 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
-data/raw/*raw_pull*.json
+*raw_pull*.json
 week04/session_4_1/practice/
 week04/session_4_2/practice/
+
+# PharmaFlow (4.2): files the pipeline rebuilds
+data/processed/foundation/*
+!data/processed/foundation/top10_drugs.parquet
