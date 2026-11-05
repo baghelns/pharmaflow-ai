@@ -223,3 +223,4 @@ week04/session_4_2/practice/
 # PharmaFlow (4.2): files the pipeline rebuilds
 data/processed/foundation/*
 !data/processed/foundation/top10_drugs.parquet
+week04/session_4_3/practice/
