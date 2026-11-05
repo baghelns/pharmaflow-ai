@@ -1,0 +1,18 @@
+=== CHECK
+-- latest five on GitHub main
+Revert "events view: skip incomplete rows"
+events view: one setting per line
+Header: note Ravi's review
+events view: skip incomplete rows
+README: say who reviews the safety pack
+-- the answer on GitHub main
+│ DUPIXENT  │     621 │         8.4 │
+│ HUMIRA    │      71 │        70.4 │
+  10 rows                 3 columns
+PASS  Ravi's change is still in the history (nothing rewritten)
+PASS  Ravi's later commits are kept (review note, one setting per line)
+PASS  the file on GitHub no longer skips incomplete rows
+PASS  the file on GitHub gives DUPIXENT 621 and HUMIRA in the ten
+PASS  your main is pushed (your copy and GitHub agree)
+PASS  the tag safety-pack-w46 still marks Monday's version
+6 of 6 checks passed

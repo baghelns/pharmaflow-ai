@@ -1,0 +1,11 @@
+=== CHECK
+-- commits since the tag that touch the file
+Ravi (teammate): Header: say the file feeds the weekly safety pack
+Ravi (teammate): Top 10: CASE instead of FILTER (works in more databases)
+-- lines changed in the file
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+-- the two answers
+identical
+│ DUPIXENT  │     621 │         8.4 │
+│ VICTOZA   │      69 │        10.1 │
+  10 rows                 3 columns

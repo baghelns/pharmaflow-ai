@@ -1,0 +1,16 @@
+=== CHECK
+-- GitHub main, latest two
+Header: counts are reports, not patients
+README: the safety pack goes out Mondays at 11:00
+-- the fix commit
+ 1 file changed, 1 insertion(+)
+-- feature branch, first parents
+Merge branch 'main' into feature/first-report-date
+WIP: first report date per drug (not checked yet)
+PASS  the Notes line is on GitHub main
+PASS  your unfinished feature is not on GitHub main
+PASS  the commit that added the line changed that one line only
+PASS  Ravi's README commit is still on main
+PASS  feature/first-report-date is on GitHub and includes main
+PASS  the feature branch's file runs: 10 rows with first_report
+6 of 6 checks passed
