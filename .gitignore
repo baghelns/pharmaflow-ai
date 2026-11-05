@@ -218,3 +218,4 @@ __marimo__/
 .streamlit/secrets.toml
 data/raw/*raw_pull*.json
 week04/session_4_1/practice/
+week04/session_4_2/practice/
