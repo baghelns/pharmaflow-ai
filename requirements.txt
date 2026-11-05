@@ -1,11 +1,10 @@
 # Notebooks: jupyter and ipykernel run them (never imported)
-ipykernel==7.3.0
+ipykernel==6.29.5
 jupyter==1.1.1
 # pandas read_excel needs openpyxl (never imported)
 openpyxl==3.1.5
 duckdb==2.0.0
 matplotlib==3.11.2
-numpy==2.4.6
 pandas==3.0.5
 requests==2.34.2
 seaborn==0.13.2
