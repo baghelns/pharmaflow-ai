@@ -1,0 +1,10 @@
+=== CHECK
+-- requirements.txt
+duckdb==2.0.0
+matplotlib==3.11.2
+pandas==3.0.5
+seaborn==0.13.2
+-- checker
+requirements.txt OK
+-- empty environment
+ModuleNotFoundError: No module named 'duckdb'

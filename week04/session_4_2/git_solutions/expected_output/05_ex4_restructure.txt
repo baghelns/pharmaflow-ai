@@ -1,0 +1,13 @@
+=== CHECK
+-- history of scripts/report.py, following the move
+Fix the paths that broke when the files moved
+Move code into scripts/, queries/ and notebooks/
+first upload
+PASS  scripts/report.py, queries/top10.sql, notebooks/analysis.ipynb exist
+PASS  no script, query or notebook left at the repo root
+PASS  the notebook no longer reads data/raw/sample.csv relative to its own folder
+PASS  all three moved files keep their history (git log --follow)
+PASS  scripts/report.py runs from the repo root
+PASS  scripts/report.py runs from inside scripts/
+PASS  everything is committed (git status is clean)
+7 of 7 checks passed

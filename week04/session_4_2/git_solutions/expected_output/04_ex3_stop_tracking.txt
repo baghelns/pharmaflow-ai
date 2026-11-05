@@ -1,0 +1,11 @@
+=== CHECK
+PASS  openfda_raw_pull.json is no longer tracked
+PASS  openfda_raw_pull.json is still on disk
+PASS  .env is no longer tracked, and is ignored
+PASS  __pycache__/ is no longer tracked, and is ignored
+PASS  .ipynb_checkpoints/ is no longer tracked, and is ignored
+PASS  a raw pull saved at the root would now be ignored
+PASS  everything is committed (git status is clean)
+7 of 7 checks passed
+-- .env in the commit before the clean-up
+OPENFDA_API_KEY=demo-key-123

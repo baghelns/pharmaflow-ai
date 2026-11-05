@@ -1,0 +1,10 @@
+=== CHECK
+-- tracked
+.gitignore
+keep.env
+src/build/keep.txt
+-- ignored on disk
+!! build/
+!! logs/
+!! notes.txt
+!! secret.env
