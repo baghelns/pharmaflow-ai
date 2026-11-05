@@ -8,7 +8,7 @@ or from week03/session_3_3/:
 
     python run_library.py
 
-For every file NN_*.sql in week03/session_3_3/sql_library/, in order, it
+For every file NN_*.sql in queries/, in order, it
   1. checks the comment block at the top has all six labels
      (Question, Asked by, Source, Output, Checked, Notes), and that
      every COPY writes through repo_file() (a plain path works from
@@ -44,7 +44,7 @@ REPO_ROOT = find_repo_root()
 sys.path.insert(0, os.path.join(REPO_ROOT, "week03", "session_3_1"))
 from run_query import connect_to_repo, run_sql_file  # noqa: E402
 
-LIBRARY = os.path.join(REPO_ROOT, "week03", "session_3_3", "sql_library")
+LIBRARY = os.path.join(REPO_ROOT, "queries")
 OUTPUT = os.path.join(REPO_ROOT, "data", "processed", "library")
 LABELS = ["Question", "Asked by", "Source", "Output", "Checked", "Notes"]
 
@@ -74,7 +74,7 @@ def main():
     os.makedirs(OUTPUT, exist_ok=True)  # COPY creates files, not folders
     files = sorted(f for f in os.listdir(LIBRARY)
                    if f.endswith(".sql") and f[:2].isdigit())
-    print(f"{len(files)} files in week03/session_3_3/sql_library/\n")
+    print(f"{len(files)} files in queries/\n")
     problems = 0
     for name in files:
         stem = name[:-4]
