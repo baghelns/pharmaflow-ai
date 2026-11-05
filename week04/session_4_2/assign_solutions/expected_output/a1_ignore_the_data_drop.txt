@@ -1,0 +1,24 @@
+=== CHECK
+.env
+.gitignore
+.ipynb_checkpoints/analysis-checkpoint.ipynb
+README.md
+__pycache__/report.cpython-311.pyc
+analysis.ipynb
+config/settings.json
+data/raw/drug_classes.csv
+data/raw/sample.csv
+exports/README.md
+openfda_raw_pull.json
+report.py
+requirements.txt
+top10.sql
+PASS  logs and the monthly exports are ignored
+PASS  exports/README.md is kept and committed
+PASS  Jupyter's -Copy notebooks are ignored, analysis.ipynb is not
+PASS  .DS_Store and Office lock files are ignored in every folder
+PASS  the new input data/raw/drug_classes.csv is committed
+PASS  settings.local.json is ignored; config/settings.json is committed
+PASS  no ignored file is tracked
+PASS  everything is committed (git status is clean)
+8 of 8 checks passed

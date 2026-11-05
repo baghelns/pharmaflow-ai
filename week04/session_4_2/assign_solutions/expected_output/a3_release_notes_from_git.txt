@@ -1,0 +1,19 @@
+=== CHECK
+D	.env
+M	.gitignore
+A	CHANGELOG.md
+M	README.md
+A	data/raw/README.md
+R100	analysis.ipynb	notebooks/analysis.ipynb
+D	openfda_raw_pull.json
+R100	top10.sql	queries/top10.sql
+D	report.py
+M	requirements.txt
+A	scripts/report.py
+PASS  v0.2 is an annotated tag on the latest commit of main
+PASS  v0.1 still points at the old release
+PASS  CHANGELOG.md in v0.2 has a ## v0.2 section
+PASS  every change Git reports since v0.1 is in the notes
+PASS  the notes list nothing Git does not report
+PASS  everything is committed (git status is clean)
+6 of 6 checks passed

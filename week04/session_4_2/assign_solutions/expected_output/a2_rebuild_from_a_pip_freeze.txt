@@ -1,0 +1,23 @@
+=== CHECK
+# pandas read_excel needs openpyxl (never imported)
+openpyxl==3.1.5
+duckdb==2.0.0
+matplotlib==3.11.2
+numpy==2.4.6
+pandas==3.0.5
+seaborn==0.13.2
+drug_class
+GLP-1 Receptor Agonist                     0.00
+Interleukin-23 Antagonist                  1.00
+Interleukin-4 Receptor alpha Antagonist    0.86
+Janus Kinase Inhibitor                     0.67
+Kinase Inhibitor                           0.75
+Tumor Necrosis Factor Blocker              0.50
+Name: is_serious, dtype: float64
+PASS  check_requirements.py prints requirements.txt OK
+PASS  exactly the packages the code needs: duckdb matplotlib numpy openpyxl pandas seaborn
+PASS  every version is the one in Ravi's freeze
+PASS  a comment says why openpyxl is listed
+PASS  ravi_freeze.txt is not committed
+PASS  requirements.txt is committed
+6 of 6 checks passed
