@@ -1,0 +1,14 @@
+== .
+  Q1 top drug: DUPIXENT: 621 reports
+  Q2 quarter with fewest serious reports: 2026 Q1: 248 serious
+  Q3 most often serious category: Death or hospital care: 92.0% serious
+  Q4 largest drug class: Interleukin-4 Receptor alpha Antagonist: 630 reports
+  Q5 bulk-submission days: 16 days, 894 reports
+== week04/session_4_3/practice/toy_repo
+  Q1 top drug: DUPIXENT: 621 reports
+  Q2 quarter with fewest serious reports: missing data/processed/library/07_serious_by_quarter.parquet
+  Q3 most often serious category: missing data/processed/library/06_reaction_categories.parquet
+  Q4 largest drug class: missing data/processed/library/05_drug_classes.parquet
+  Q5 bulk-submission days: cannot read data/processed/library/08_bulk_submissions.parquet
+== /no/such/folder
+  /no/such/folder: no such folder

@@ -1,0 +1,87 @@
+-- Result 1
+┌───────────┬─────────┬─────────────┐
+│ drug_name │ reports │ pct_serious │
+│  varchar  │  int64  │   double    │
+├───────────┼─────────┼─────────────┤
+│ DUPIXENT  │     621 │         8.4 │
+│ CABOMETYX │     170 │        10.0 │
+│ SKYRIZI   │     139 │        89.2 │
+│ RINVOQ    │     105 │        85.7 │
+│ RYALTRIS  │      79 │         0.0 │
+│ OHTUVAYRE │      74 │         2.7 │
+│ REPATHA   │      73 │        28.8 │
+│ HUMIRA    │      71 │        70.4 │
+│ OXERVATE  │      70 │         0.0 │
+│ VICTOZA   │      69 │        10.1 │
+└───────────┴─────────┴─────────────┘
+  10 rows                 3 columns
+
+-- Result 2
+┌───────────────┬─────────────────┬────────────┐
+│ quarter_label │ serious_reports │ pct_change │
+│    varchar    │      int64      │   double   │
+├───────────────┼─────────────────┼────────────┤
+│ 2024 Q3       │             376 │       NULL │
+│ 2024 Q4       │             409 │        8.8 │
+│ 2025 Q1       │             320 │      -21.8 │
+│ 2025 Q2       │             434 │       35.6 │
+│ 2025 Q3       │             351 │      -19.1 │
+│ 2025 Q4       │             352 │        0.3 │
+│ 2026 Q1       │             248 │      -29.5 │
+│ 2026 Q2       │             427 │       72.2 │
+└───────────────┴─────────────────┴────────────┘
+
+-- Result 3
+┌──────────────────────────────────┬─────────┬─────────────┐
+│        reaction_category         │ reports │ pct_serious │
+│             varchar              │  int64  │   double    │
+├──────────────────────────────────┼─────────┼─────────────┤
+│ Death or hospital care           │     410 │        92.0 │
+│ Heart, blood and circulation     │     320 │        75.3 │
+│ Unmapped                         │    1935 │        63.3 │
+│ Other organs and cancer          │     328 │        57.3 │
+│ Muscles, bones and joints        │     216 │        52.3 │
+│ Brain, nerves and mood           │     380 │        51.5 │
+│ Infection and breathing          │     324 │        51.1 │
+│ Gut and liver                    │     325 │        42.8 │
+│ Lack of effect                   │     312 │        25.7 │
+│ General symptoms                 │     344 │        24.3 │
+│ Skin, allergy and injection site │     531 │        14.1 │
+│ Product use or dosing error      │     793 │         4.9 │
+└──────────────────────────────────┴─────────┴─────────────┘
+  12 rows                                        3 columns
+
+-- Result 4
+┌────────────────────────────────┬─────────┬───────┬─────────────┐
+│          class_label           │ reports │ drugs │ pct_serious │
+│            varchar             │  int64  │ int64 │   double    │
+├────────────────────────────────┼─────────┼───────┼─────────────┤
+│ Interleukin-4 Receptor alpha … │     630 │     2 │         9.2 │
+│ Interleukin-23 Antagonist      │     171 │     5 │        75.4 │
+│ Thalidomide Analog             │     161 │     4 │        44.6 │
+│ Atypical Antipsychotic         │     148 │    11 │        56.8 │
+│ Glucose-dependent Insulinotro… │     132 │     4 │        29.5 │
+│ Janus Kinase Inhibitor         │     127 │     4 │        79.5 │
+│ Tumor Necrosis Factor Blocker  │     114 │    12 │        73.7 │
+│ GLP-1 Receptor Agonist         │     113 │     5 │        29.2 │
+└────────────────────────────────┴─────────┴───────┴─────────────┘
+
+-- Result 5
+┌──────────────────┬────────┬───────────┐
+│   column_name    │ blanks │ pct_blank │
+│     varchar      │ int64  │  double   │
+├──────────────────┼────────┼───────────┤
+│ patient_age      │   3016 │      48.5 │
+│ patient_age_unit │   3016 │      48.5 │
+│ country          │    403 │       6.5 │
+│ serious          │     13 │       0.2 │
+└──────────────────┴────────┴───────────┘
+
+-- Result 6
+┌───────────┬──────────────┐
+│ bulk_days │ bulk_reports │
+│   int64   │    int64     │
+├───────────┼──────────────┤
+│        16 │          894 │
+└───────────┴──────────────┘
+

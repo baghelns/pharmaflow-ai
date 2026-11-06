@@ -1,0 +1,11 @@
+Q1: number NO; committed link NO; its own evidence NO
+Q2: number NO; committed link NO; its own evidence NO
+Q3: number NO; committed link yes; its own evidence yes
+Q4: number yes; committed link yes; its own evidence yes
+Q5: missing
+
+instructor 15, peer 17 -> 16/20: Foundation Badge
+instructor 15, peer 16 -> 15/20: no badge yet
+instructor 20, peer 12 -> 16/20: talk it through first; Foundation Badge
+instructor 16, peer 16 -> 16/20: Foundation Badge
+ValueError: four scores from 0 to 5, one per category

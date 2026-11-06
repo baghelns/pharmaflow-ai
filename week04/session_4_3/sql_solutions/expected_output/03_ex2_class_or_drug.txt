@@ -1,0 +1,14 @@
+┌────────────────────────────────┬─────────┬──────────┬────────┬──────────────┐
+│          class_label           │ class_n │ top_drug │ drug_n │ pct_of_class │
+│            varchar             │  int64  │ varchar  │ int64  │    double    │
+├────────────────────────────────┼─────────┼──────────┼────────┼──────────────┤
+│ Interleukin-4 Receptor alpha … │     630 │ DUPIXENT │    621 │         98.6 │
+│ Janus Kinase Inhibitor         │     127 │ RINVOQ   │    105 │         82.7 │
+│ Interleukin-23 Antagonist      │     171 │ SKYRIZI  │    139 │         81.3 │
+│ GLP-1 Receptor Agonist         │     113 │ VICTOZA  │     69 │         61.1 │
+│ Glucose-dependent Insulinotro… │     132 │ ZEPBOUND │     68 │         51.5 │
+│ Atypical Antipsychotic         │     148 │ CAPLYTA  │     61 │         41.2 │
+│ Thalidomide Analog             │     161 │ REVLIMID │     61 │         37.9 │
+│ Tumor Necrosis Factor Blocker  │     114 │ ENBREL   │     35 │         30.7 │
+└────────────────────────────────┴─────────┴──────────┴────────┴──────────────┘
+
