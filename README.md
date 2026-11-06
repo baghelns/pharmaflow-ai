@@ -65,8 +65,8 @@ how reports were sent in, not only how often a drug is reported.
 Between 30.0% and 56.1% of reports are serious in every quarter
 ([chart](data/processed/charts/lab2_serious_share_quarter.png),
 [queries/07_serious_by_quarter.sql](queries/07_serious_by_quarter.sql)).
-The 2026 Q1 low of 30.0% comes from four single-drug batches, not from a
-change in safety.
+Six of the 16 bulk-submission days (Q5) fall in 2026 Q1, so part of its
+30.0% low is how reports arrived; it does not show that drugs got safer.
  
 ### Q3. Which reaction categories are most often serious?
  
